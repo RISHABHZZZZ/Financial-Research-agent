@@ -1,0 +1,128 @@
+# Raw Data for Infosys
+
+
+## Web Search Data
+## Article from https://www.infosys.com/investors/reports-filings.html
+3-year Overview
+
+View the complete financial highlights for the last three years
+
+P&L Data | P&L Ratios | Balance Sheet Data | Balance Sheet Ratios | Per Share Data & Ratios | Employee Data | Complete Data Sheet
+
+Quarterly Results
+
+Financial Information for the Fourth Quarter and Year ended March 31, 2025
+
+Quarterly Reports
+
+Annual Reports
+
+Navigate your next
+
+Global Presence | Disclosures pursuant to SEBI (SBEB & Sweat Equity) Regulations – 2021 | Training of Board members | Exhibit to Board’s Report | AGM Notice | AGM Proceedings | AGM Voting Results | Annual secretarial compliance reports
+
+Subsidiary Financials
+
+View past annual reports
+
+View a comparison of actual revenues and EPS by quarter against the guidance issued
+
+Read
+
+Statutory Filings
+
+Read more about our filings with the United States Securities and Exchange Commission (SEC)
+
+## Article from https://www.annualreports.com/Company/infosys-limited
+Infosys Limited
+
+…
+
+prioritize the execution of change. They also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Their always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from their innovation ecosystem.
+
+Infosys is a global leader in next-generation digital services and consulting. They enable clients in 46 countries to navigate their digital transformation. With nearly four decades of experience in managing the systems and workings of global enterprises, they expertly steer their clients through their digital journey. They do it by enabling the enterprise with an AI-powered core that helps
+
+## Article from https://www.infosys.com/investors/reports-filings/annual-report/annual-reports/ar-2023-24.html
+People are a part of our digital skilling initiatives
+
+Lives empowered via our Tech for Good solutions in e-governance, education and healthcare
+
+Large deal TCV (Total contract value in US$ billion)
+
+Improved by 0.9% over the last fiscal
+
+Basic earnings per share (par value of ₹ 5 each)
+
+Note:
+
+(1) Comprise cash and cash equivalents, current and non-current investments excluding investments in equity and preference shares, and others.
+
+(2) Dividend includes special dividend of ₹8.00 per share.
+
+(3) As per the consolidated financial statements prepared under IFRS
+
+(4) Free cash flow is defined as net cash provided by operating activities less capital expenditure as per the Consolidated Statement of Cash Flows prepared under IFRS.
+
+## Curated Relevant Data
+**Extracted Information on Infosys:**
+
+1. **Financial Data and Disclosures:**
+   - **Large Deal TCV:** Improved by 0.9% over the last fiscal year.
+   - **Basic Earnings Per Share:** Par value of ₹5 each.
+   - **Dividend:** Includes a special dividend of ₹8.00 per share.
+   - **Free Cash Flow:** Defined as net cash from operating activities minus capital expenditure, per IFRS.
+
+2. **Reports and Filings:**
+   - **3-Year Overview:** Available with P&L, Balance Sheet data, and more.
+   - **Quarterly Results:** For the fourth quarter ended March 31, 2025.
+   - **Annual Reports and Statutory Filings:** Accessible on Infosys's investor page, including filings with the SEC.
+
+3. **Subsidiary Financials:** Information available, though specific details on Indian operations not highlighted in the data provided.
+
+This extraction focuses on financial metrics and disclosures, avoiding marketing content, to provide a clear overview of Infosys's relevant data.
+
+## Financial Data
+- Last Traded Price: ₹1603.4
+- Change (%): -0.29%
+- Previous Close: ₹1608
+- Day High: ₹1615
+- Day Low: ₹1594.1
+- 52 Week High: ₹2006.45
+- 52 Week Low: ₹1307
+- P/E Ratio: 24.537378
+- Face Value: ₹5
+- Industry: Computers - Software & Consulting
+- Sector: Information Technology
+- ISIN: INE009A01021
+- Market Cap: $6,638,852,374,528
+- Dividend Yield: 3.92%
+- Revenue: $19,277,000,704
+- Net Income: $3,158,000,128
+
+## Financial Ratios
+- Net Margin: 16.38%
+- Debt to Assets: N/A
+- P/E Ratio: 24.54
+
+## Latest News
+- **Infosys founder NR Narayana Murthy visits GIFT city, commends its global growth trajectory** (2025-06-27)
+  https://economictimes.indiatimes.com/tech/information-tech/infosys-founder-nr-narayana-murthy-visits-gift-city-commends-its-global-growth-trajectory/articleshow/122117069.cms
+
+- **CMO Sumit Virmani talks Infosys' AI celebration of Rafael Nadal** (2025-06-26)
+  https://biztoc.com/x/e618926f5abf93cb
+
+- **AI is reshaping enterprise priorities—Infosys aims to lead the transformation: Nilekani** (2025-06-26)
+  https://www.thehindubusinessline.com/companies/ai-is-reshaping-enterprise-prioritiesinfosys-aims-to-lead-the-transformation-nilekani/article69740138.ece
+
+- **Nandan Nilekani says AI is changing the way Infosys functions, reveals big shift in work, workplace, and workforce** (2025-06-26)
+  https://economictimes.indiatimes.com/news/new-updates/nandan-nilekani-says-ai-is-changing-the-way-infosys-functions-reveals-big-shift-in-work-workplace-and-workforce/articleshow/122086428.cms
+
+- **'GCCs no longer competitors, they're key clients for Infosys': Infosys chairman Nandan Nilekani** (2025-06-25)
+  https://timesofindia.indiatimes.com/business/india-business/gccs-no-longer-competitors-theyre-key-clients-for-infosys-infosys-chairman-nandan-nilekani/articleshow/122077554.cms
+
+## Stock Information
+- **Current Price:** $18.52
+- **52-Week High:** $23.63
+- **52-Week Low:** $15.82
+- **1-Month Change:** +0.33%
+- **Volatility (Std Dev over 30 days):** 1.34%

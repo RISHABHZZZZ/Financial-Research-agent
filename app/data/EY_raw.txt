@@ -1,0 +1,426 @@
+# Raw Data for EY
+
+
+## Web Search Data
+## Article from https://www.ey.com/en_gl/value-realized-annual-report
+EY Value Realized 2024 is our annual report on how we’re creating value and shaping the future for EY people, clients and society.
+
+I’m excited to share EY Value Realized 2024, an in-depth look at our commitments and actions over the last fiscal year to create sustainable, long-term value for EY people, clients and society (“Report”).
+
+The Report reflects the EY purpose of Building a better working world; our culture; and the EY Values.
+
+Before writing more about what you can expect to see in the Report, I want to recognize my predecessor, Carmine Di Sibio, for his contributions to EY throughout a long and distinguished career. Together, we enjoyed a robust and smooth transition period, during which we traveled the world to talk to EY clients, member firms’ partners, people and regulators.
+
+Dedicated to creating value
+
+Through my ongoing travels, I continue to see a powerhouse organization in great shape; one that is dedicated to creating value for EY stakeholders from a position of strength.
+
+I see an organization that continually invests in its people: EY has delivered more than 100m learning hours, invested US$2.1b in training and progressed a more diverse, equitable and inclusive culture over the last five fiscal years. We have also focused on social mobility and socio-economic inclusion – knowing that our upbringing and the education and income of prior generations, can impact the extent to which we are able to access resources, networks and opportunities – as part of our broader diversity, equity and inclusiveness (DE&I) and social equity efforts.
+
+I see an organization that continually strengthens its offering for clients: in the same timeframe, there was EY investment in 85 acquisitions, 77 alliances and more than 100 ecosystem relationships, as well as cutting-edge technology including in data and AI. This past year, EY launched EY.ai, to help clients transform their businesses through confident and responsible AI adoption. We also created EYQ, an EY conversational AI assistant. Since its launch in September 2023, there have been more than 68 million prompts.
+
+I see an organization that has positively impacted society and the planet: Since the launch of EY Ripples in 2018, EY has impacted more than 192m lives and contributed more than 3.8m hours to community initiatives. In addition, we have reduced absolute GHG emissions by 40% since FY19.
+
+Throughout the Report, you will find stories of the work we are doing across all these areas, for EY people, clients and society. We continue to disclose the World Economic Forum’s International Business Council (WEF-IBC) stakeholder metrics, and EY continues to be a participant in the United Nations Global Compact (UNGC), and in the Report, we reaffirm our commitment toward UNGC’s Ten Principles.
+
+We are proud to be a US$50b+ organization with nearly 400,000 people around the world, an important business milestone. It is now time to look forward as we seek to shape our next US$50b+ of revenue.
+
+From the accelerating rate of technological change, to an increasingly volatile geopolitical environment, and societal and climate-driven challenges, we are all acutely aware that the world’s organizations are facing increasingly complex issues. These issues are not new on their own, but their impact is increasingly intense, far-reaching and inter-connected.
+
+Shaping the future with confidence
+
+All in is the EY global strategy to shape the future with confidence – to lead our stakeholders through this extremely complex, rapidly evolving AI and technology-driven era, and create new value for EY clients, people and society.
+
+We believe in this so much that we have made Shape the future with confidence our new tagline. Placed alongside the iconic EY logo, it reflects an unwavering commitment to help create new value and build confidence in the capital markets through whatever challenges we collectively face. This, in turn, will help us continue to fulfill our enduring purpose of Building a better working world.
+
+For EY clients, shape the future with confidence means helping them navigate emerging challenges and opportunities as distinctive journey partners. For EY people, it’s about supporting their future needs and career expectations and empowering them to solve some of the most complex client issues. For society, it’s having a positive impact in light of changing needs.
+
+“All in” will help shape the next chapter for EY through purposeful and sustainable growth – intentional, future-focused investments in areas where we are positioned to lead, such as transformation, managed services and sustainability, alongside an unwavering commitment to audit quality.
+
+We will also build an even stronger organization by creating new ways to collaborate across our geographical footprint. And the way we provide services will evolve rapidly using technology, data and AI.
+
+Empowering our people
+
+We will continue to invest in EY people. We have a refreshed people proposition that focuses on the things EY people told us they care about the most: developing skills; being empowered to prioritize their wellbeing; and building an inclusive and positive culture.
+
+And we will do all of this together. All in isn’t just a business strategy, it’s also an attitude and a way of working: combining the multidisciplinary skills of the nearly 400,000 EY people to anticipate and navigate a changing world and in the process help EY clients and people shape the future with confidence.
+
+Our new strategy does mean change. At the same time, the bedrock principles that make us who we are as an organization are not changing. The EY organizational purpose remains Building a better working world, and the EY Values and culture remain integral to EY.
+
+EY today is in a great place. We are making the future-focused investments and implementing initiatives that EY clients, EY people and our broader communities would need to address the challenges and capitalize on the opportunities ahead for us all.
+
+As EY implements the new global strategy, I look forward, in the spirit of openness, transparency and accountability, to continuing to report on our progress this time next year.
+
+
+
+## Article from https://www.ey.com/en_gl/newsroom/2024/10/ey-reports-global-revenue-of-51-point-2-billion-us-dollars-for-fiscal-year-2024
+Records FY24 revenue of US$51.2b, a 3.9% increase in local currency
+
+Releases ‘Value Realized’ report, with updates on how EY is providing long-term value for EY people, clients and society
+
+Launches new global strategy ‘All in’ and introduces tagline, ‘Shape the future with confidence’
+
+The global EY organization (EY) today announces combined global revenues of US$51.2b for the financial year ending June 2024 (FY24), an increase of 3.9% in local currency.
+
+All EY Service Lines reported revenue growth. Tax achieved a growth of 6.3% in local currency (6.7% in USD). Assurance also showed a 6.3% increase in local currency (5.8% in USD), while Strategy and Transactions (SaT) recorded a 2.3% rise (2.8% in USD). Consulting experienced a 0.1% increase in local currency (unchanged in USD).
+
+Today also sees the release of Value Realized, the integrated EY annual report on financial and non-financial performance, including environmental, social and governance (ESG) initiatives and disclosures, as well as strategic collaborations aimed at generating long-term value for EY clients, people and society.
+
+Janet Truncale, EY Global Chair and CEO, says:
+
+“Over the past year, EY teams have demonstrated extraordinary resilience in a challenging economic climate with growth across all Service Lines. This resilience is driven by sustained investment in EY capabilities through a broad spectrum of services, such as leading AI and tech.
+
+“We are also creating new value for EY people, with an unwavering commitment to continuous learning and diversity, equity and inclusion to prepare our workforce for the future. That is why EY has launched a new strategy called ‘All in,’ which demonstrates that together with EY people, clients and communities we can help shape the future with confidence.”
+
+Investing in technology and artificial intelligence
+
+EY continues to invest in award-winning technology platforms and artificial intelligence (AI) to assist clients to transform, grow and tackle complex global challenges. EY Fabric, a core technology platform, is now deployed across 180 countries with over 2m unique client users.
+
+In September 2023, EY launched EY.ai, a unifying platform bringing together human capabilities and artificial intelligence. EY.ai leverages leading-edge EY technology platforms and AI capabilities, with deep experience in strategy, transactions, transformation, risk, assurance and tax, all augmented by a robust AI ecosystem. At the same time, the global organization also launched EYQ, one of the world's largest private and secure large language models (LLM), which has been rolled out across the EY global workforce this past year. To date, 70% of all EY people have been trained in the responsible use of AI. Over 75% of EY people have used EYQ, generating 68m prompts since September 2023. EYQ has also won multiple industry awards for AI and innovation excellence.
+
+In FY25, EY plans to further incorporate AI platforms throughout EY operations and integrate AI into its ways of working. EY teams are proactively assisting clients in their transformation efforts, helping them become AI-powered businesses by safely and responsibly utilizing emerging technologies.
+
+In line with the EY audit transformation journey, EY has invested US$1b in a leading-edge technology platform aimed at boosting trust, transparency, and transformation. Recently, the EY organization introduced over 25 new Assurance technology features, incorporating integrated AI technologies, all supported by EYQ and EY Fabric.
+
+Strengthening impact through alliances and ecosystems
+
+EY continues to leverage a strategic network of ecosystem partners to create new value for clients through a blend of capabilities, technology, data and connections. Over the past five years, EY has established more than 100 ecosystem relationships and alliances, 20 of which are new in FY24 as we swiftly expand our AI and sector-based ecosystems. Collectively, these ecosystems and alliances account for 48% of overall EY growth in FY24.
+
+Over the past five years, EY has grown alliance partner revenues at 31% (compound annual growth rate).
+
+Supporting sustainability choices and services
+
+There are 4,000 EY professionals dedicated to supporting sustainability and climate change services around the world. As clients continue to need our help solving this complex challenge, 50,000 EY professionals have applied their skills to contribute to engagements that help EY clients advance their sustainability agendas.
+
+EY is committed to reducing its greenhouse gas (GHG) emissions. This is reflected in the 40% reduction in GHG emissions and a 42% reduction in Scope 3 travel emissions against an FY19 baseline.
+
+Numerous initiatives have been implemented to assist EY people in making informed travel choices, and these initiatives are already demonstrating a positive impact. In FY24, these initiatives prevented an additional 98,000 tons of CO2e emissions, equivalent to almost 20% of all EY travel emissions.
+
+Ongoing learning and development
+
+EY continues to prioritize investment in learning and development. In FY24 EY reached a major milestone with over half a million learning accreditations – known as EY Badges - issued since the program was launched. This has included advanced learning in sustainability, data visualization, AI and transformational leadership.
+
+The uptake in AI learning has been extraordinarily rapid, with over 250,000 individuals completing AI learning courses within six months of training being rolled out.
+
+Prioritizing diversity, equity and inclusiveness
+
+EY has prioritized social equity across all areas of diversity, equity and inclusiveness (DE&I), through employing storytelling to raise awareness, initiate discussions and scrutinize processes and systems via the award-winning Uplift social equity campaign.
+
+Positively impacting lives
+
+Since its start in 2018, EY Ripples has positively affected over 192m lives, and we are on track to achieve an ambition to positively impact 1b lives by 2030.
+
+In FY24 more than 168,000 EY participants contributed to initiatives that benefited over 64m people. EY invested US$169m and devoted 934,000 hours to community-strengthening projects and various in-kind initiatives.
+
+A new “All in” strategy to shape the future with confidence
+
+On 1 July, EY launched “All in” the EY global strategy. This strategy aims to shape the next US$50b in EY revenue through purposeful growth and targeted investments in areas like transformation, managed services and sustainability, while maintaining a strong focus on audit quality.
+
+This ambition is encapsulated in the new tagline, ‘Shape the future with confidence,’ which will build upon the iconic EY purpose, “Building a better working world."
+
+– ends –
+
+About EY
+
+EY exists to build a better working world, helping create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+
+EY refers to the global organization, and may refer to one or more, of the member firms of Ernst & Young Global Limited, each of which is a separate legal entity. Ernst & Young Global Limited, a UK company limited by guarantee, does not provide services to clients. Information about how EY collects and uses personal data and a description of the rights individuals have under data protection legislation are available via ey.com/privacy. EY member firms do not practice law where prohibited by local laws. For more information about our organization, please visit ey.com.
+
+This news release has been issued by EYGM Limited, a member of the global EY organization that also does not provide any services to clients.
+
+## Article from https://www.ey.com/en_us/value-realized-annual-report
+With emerging technologies and external forces shaping the market landscape at an unprecedented pace, operating with resilience and agility is now more important than ever. By keeping our purpose of building a better working world at the heart of our strategy, the EY organization continues to lead our clients through increasingly complex challenges around the globe, while also providing exceptional experiences for all our people.
+
+We remain committed to addressing the evolving needs of our clients, people, industry and society, grounded in our relentless focus on integrity, quality and living our values. I, along with our EY US leadership, am proud of our ability to create long-term value for all our stakeholders and make a positive impact in the communities where we live and work.
+
+Continuous innovation and value for our clients
+
+Across all our service lines, we are creating value with 20,000 clients every single day. EY US revenues grew 12% from FY22, with total revenues at $21.5 billion in FY23 as our multidisciplinary teams delivered more than 165,000 engagements. We continued to lead in foundational services across Tax and Assurance, with growth across Consulting and Strategy and Transactions. We also expanded our capabilities and investments in our alliances and technologies to better support our clients, with a critical focus on the market and capitalizing on opportunities that emerge amid changing dynamics.
+
+We understand the enormous trust that is placed in us as independent auditors, and we embrace our responsibility to perform audits that promote confidence in financial reporting and help make the US capital markets the most trusted in the world. We continue to focus on simplifying, improving and standardizing our audit approach, building centralized teams to provide audit support on various topics and embedding a mindset of continuous improvement within our culture. We are also investing in innovative technologies to continually enhance audit quality and build capabilities across our organization.
+
+Over the past year, we brought together our artificial intelligence (AI) innovation and development efforts under one platform, EY.ai. This unified platform, combined with a global $10 billion three-year investment that started in 2021, has fueled new AI capabilities and offerings that will help enable clients to efficiently access the benefits of AI at every stage of their journeys. Our goal is to increase transparency, trust and confidence in AI and use these new capabilities to serve the broader interests of society and contribute to a more inclusive, equitable future for all.
+
+A better working world for our people
+
+Our people deliver exceptional client service. We are proud to support them from the time they join the EY organization and throughout their career journey. It is an honor to be recognized in the Fortune 100 Best Companies to Work For® list for the 25th consecutive year and in Fair360’s Top 50 Companies Hall of Fame. In line with our purpose, we are committed to fostering an inclusive work environment that supports learning, growth and balance for all our people.
+
+A commitment to lifelong learning is a core pillar of our people strategy. We have invested more than $385 million globally in learning and development opportunities, of which $110 million is exclusively for our people in the US. These investments support mentoring programs, online learning, annual in-person events for important milestones and three EY-funded master’s degree offerings. This year, I want to congratulate the 28 people in the US who achieved a master’s degree from our degree offerings, including the inaugural class of Master of Sustainability graduates!
+
+We also recognize the importance of wellbeing for our people and offer benefits to support emotional, physical, social and financial wellbeing, including our expanded Wellbeing Fund, which now covers everything from physical fitness to vacation getaways, and includes 25 no-cost counseling and mental health coaching sessions per year. As we move through FY24, we are learning from our employees how to create more sustainable hybrid work opportunities, where people connect in person for the moments that matter, while preserving the flexibility to work around life events.
+
+Our EY US leadership sets clear expectations for the quality of work our professionals deliver each day, and we are committed to continuous improvement and fostering an environment in which all our people can thrive. To underscore this commitment, we recently appointed a Chief Ethics and Compliance Officer who reports directly to me and is focused on ensuring all our people understand the importance of doing the right thing in every circumstance.
+
+An ambitious vision for our society and planet
+
+Along with supporting our people and clients, we recognize the importance of reducing our environmental footprint and making a positive impact in the communities where we live and work. We are on track to achieve our 2025 climate ambition and continue to create long-term value for society through our corporate responsibility program, EY Ripples. This year, we impacted more than 10.5 million lives across the US through EY Ripples flagship programs, such as Earthwatch and the EY College MAP program, and through new partnerships with local nonprofits across the country.
+
+For the third year in a row, we offset emissions associated with our office electricity through virtual power purchase agreements from two wind farms in Texas. The biggest part of our footprint, our business travel, saw an expected increase as we have been reconnecting with clients and colleagues in person more frequently. We have adapted our ways of working with enhanced guidance that provides clarity on why, when and how we travel to best support the current needs of our business, while also continuing to invest in new technology to make connecting remotely easier. We are also piloting collaboration with clients across industries to jointly decrease carbon emissions associated with our work. We are excited to be on a decarbonization journey with our clients and look forward to capturing more opportunities for innovation and impact.
+
+An impactful year and a look ahead
+
+With these pillars at the core of our strategy, I am excited to share our EY Value Realized: 2023 US progress report, which provides an in-depth review of our accomplishments over the last year as well as our vision for the future. I’m proud of the impact our organization and 57,000 people across the US have delivered — from the value we create through our work with clients, to the development of new learning and professional upskilling opportunities and volunteering with local nonprofits in our communities.
+
+Looking ahead, we are transforming our business based on our learnings from key internal and external discussions, including accelerated opportunities for innovation and collaboration with clients and updated ways of working. I am also pleased to share that our partners and principals recently approved a modernized governance model that will drive accountability and trust in the way we govern and manage our US firm now and into the future.
+
+I am optimistic about the path ahead and look forward to working with the new global CEO-elect, Janet Truncale, as she drives our global ambitions. Together, we will embark upon another year of creating long-term, sustainable value for all our stakeholders, continuing to grow and evolve our business with collaboration and connectivity at the center.
+
+## Article from https://en.wikipedia.org/wiki/Ernst_%26_Young
+Multinational professional services network
+
+EY,[6][7] previously known as Ernst & Young, is a multinational professional services network based in London, United Kingdom.[8] Along with Deloitte, KPMG and PwC, it is one of the Big Four accounting firms. The EY network is composed of member firms of Ernst & Young Global Limited, a UK company limited by guarantee.[8]
+
+EY is one of the largest professional services networks in the world.[9] It primarily provides assurance, tax, information technology services (including managed services in areas like Cybersecurity, Cloud, Digital Transformation and AI), consulting, and advisory services to its clients.[10]
+
+Ernst & Young Global Limited operates as a network of member firms which are structured as separate legal entities in a partnership, which has 395,442 employees in over 700 offices in more than 150 countries.[5] The firm's current partnership was formed in 1989 by a merger of two accounting firms: Ernst & Whinney and Arthur Young & Co.[11] It was named Ernst & Young until a rebranding campaign officially changed its name to EY in 2013,[12] although this initialism was already used informally prior to its sanctioning adoption.
+
+In 2023, EY was the seventh-largest privately owned organization in the United States,[13] and EY has for 25 years been continuously ranked on Fortune magazine's list of the 100 Best Companies to Work For, longer than any other accounting firm.[14] The firm has, however, repeatedly come under scrutiny for systemic issues in their training, hiring, and work culture.
+
+History [ edit ]
+
+Early history and mergers [ edit ]
+
+EY resulted from several mergers of ancestor firms over the last century and a half, the oldest of which was founded in 1849, in England, as Harding & Pullein. That same year, this firm was joined by an accountant named Frederick Whinney, who, a decade later, became a partner. After his son joined the firm, it was later renamed Whinney, Smith & Whinney, in 1894.[15]
+
+In 1903, the firm Ernst & Ernst was founded in Cleveland, Ohio, by Alwin C. Ernst, and his brother, Theodore Ernst. In 1906, Arthur Young & Co. was set up by a Scottish accountant, Arthur Young, in Chicago. Starting in 1924, these two American firms became allied with prominent British firms; Young with Broads Paterson & Co.; and Ernst with the aforementioned Whinney Smith & Whinney. The latter of these two mergers spawned Anglo-American partnership Ernst & Whinney in 1979, then the fourth largest accountancy firm in the world.[15]
+
+A decade later, in 1989, Ernst & Whinney merged with the fifth largest firm globally at the time, Arthur Young & Co., to create Ernst & Young.[16]
+
+Later developments [ edit ]
+
+Ernst & Young logo, 1990–2012
+
+In October 1997, Ernst & Young announced plans to merge its global practices with professional services network KPMG, to create the largest professional services organization in the world. The announcement came on the heels of an announced merger between Price Waterhouse and Coopers & Lybrand only a month earlier. These plans were soon abandoned in February 1998, due to several factors ranging from client opposition, antitrust issues, cost problems, and the anticipated difficulty of merging the two diverse firms and cultures.[17] The merger between Price Waterhouse and Coopers & Lybrand, however, went ahead as planned, creating PwC.[18]
+
+Ernst & Young expanded its consulting practice heavily during the 1980s and 1990s. During this time, the U.S. Securities and Exchange Commission, and various members of the investment community, began to raise concerns about a potential conflict of interests. This conflict would be brought about by firms offering both consulting and auditing services simultaneously to overlapping clients, a common practice among the "Big Five". In May 2000, Ernst & Young was the first of those firms to fully separate its consulting practices via a sale to the French IT services company Capgemini for $11 billion, creating the new company Capgemini Ernst & Young, which was later renamed back to Capgemini.[19]
+
+Recent history, re-branding and expansion [ edit ]
+
+EY offices in Warsaw, Poland
+
+Ernst & Young office in Sandton, Johannesburg, South Africa
+
+In 2002, Ernst & Young serviced a large chunk of the clients previously working with Arthur Andersen after their downfall in connection with the Enron scandal, although it did not engage with any new Arthur Andersen clients from the United Kingdom, China, or the Netherlands.[20] Four years later, Ernst & Young became the only member of the Big Four to have two member firms in the United States, with the inclusion of Mitchell & Titus, LLP in 2006, the largest minority-owned accounting firm in the United States.[21][22] Mitchell & Titus ended its membership in the EY network effective October 30, 2015.[23]
+
+In April 2009, Reuters reported that Ernst & Young, spurred by the global economic downturn, had launched a cost-saving initiative encouraging its staff in China to take 40 days of low-pay leave between the summer of 2009 and the summer of 2010. Those who participated got a prorated salary equal to 20% of a regular salary, plus the benefits of a full-time employee. The initiative applied to employees in Hong Kong, Macau and mainland China, where the firm's employees numbered 8,500 in total.[24] In 2010, Ernst & Young acquired Terco, the Brazilian member firm of Grant Thornton.[25]
+
+EY logo, 2013–2018
+
+In 2013, the firm officially changed its brand from Ernst & Young to EY, and christened the accompanying tagline: "Building a better working world".[26][6][7][27]
+
+Also in 2013, the Pope of the Roman Catholic Church hired EY to help review Vatican City State's finances and help "verify and consult" the institution's administration, including the museums, post office and tax-free department store.[28] EY expanded further and acquired all of KPMG Denmark's operations including its 150 partners, 1,500 employees and 21 offices.[29]
+
+In 2014, EY acquired global strategy consulting firm The Parthenon Group, gaining 350 consultants in its then-Transaction Advisory Services practice so that it could provide in-house strategy consulting services to its clients. The business unit has since been rebranded as EY-Parthenon and is one of the most selective strategy consultancies worldwide.[30]
+
+In 2015, EY opened its first global Security Operations Centre in Thiruvananthapuram, Kerala in India, and coincidentally invested $20 million over 5 years to combat the increasing threat of cybercrimes.[31]
+
+In 2017 EY announced it was opening an executive support center in Tucson, Arizona, US, creating 125 new jobs.[32] That same year, the company opened a Digital Security Operations Center, located in Muscat, Oman, to cover the EMEIA region as part of a $10 million investment.[33]
+
+In 2018, EY opened a $4.4 million professional services center in Louisville, Kentucky, US, creating 125 new jobs,[34] and announced it would open an IT / tech hub in Nashville, TN, US, creating 600 regional jobs.[35]
+
+In November 2022, it was announced EY had acquired the Sydney-headquartered data and analytics specialists, Bridge Business Consulting.[36]
+
+Project Everest [ edit ]
+
+The Wall Street Journal reported in May 2022 that the firm might split its accounting and advisory divisions into two new, separate businesses.[37] The plan, referred to internally as "Project Everest" would involve the consulting business completing an initial public offering, the proceeds of which would be used to compensate partners at the new, separate auditing company.[38] The firm's debt has proven to be an internal obstacle to the split.[39] The debt is mostly owed to former partners of EY, taking the form of what the Wall Street Journal characterized as "effectively an unfunded pension plan".[39] Would-be partners of the new accounting firm have expressed reservations as their descendant firm, the smaller of the new organizations, would presumably absorb most of the debt.[39] On 5 September 2022, the firm announced that partners would vote on whether to split EY into two businesses.[40] EY's member firms in China, Hong Kong, Macau, and Israel stated that they would not split.[41][42] Rival firms such as KPMG and Deloitte have said they do not intend to imitate EY.[43]
+
+In March 2023, Julie Boland, head of EY US, stated in a webcast that the split would be temporarily paused amid internal debate over the proportioning of its tax service line among the proposed consulting and assurance spinoffs.[44]
+
+The firm cancelled Project Everest as the US portion of the firm withdrew its support for the split in April 2023.[45] Preparing and planning for the split cost EY $600 million.[46]
+
+Global structure [ edit ]
+
+The firm is organized geographically into three areas: Europe, Middle East, India and Africa; the Americas; and Asia-Pacific.[47]
+
+In 2018, the company underwent a transformation of some of its region borders, primarily the union of its CIS region (operating in the former Soviet Union) and the CEE region (Eastern Europe) to create the CESA block.[48]
+
+Services [ edit ]
+
+Over the course of its operations, EY has transformed its business model and diversified its pool of offered services. Over the course of the last decade EY has substantially altered its business approach to offer a more comprehensive scope of services. This is mainly attributed to an intensified competition in the existing market of professional services, and competition in new markets: investment banking and strategic consultancy. According to the latest published data, the company has the following four main service lines:[49]
+
+Assurance: comprises Financial Audit, Financial Accounting Advisory Services, CCaSS (Climate Change and Sustainability services) and Forensic & Integrity Services.
+
+Tax: Transfer Pricing, International Tax Services, Business Tax Compliance, Global Trade, Indirect Tax, Tax Accounting & Risk Advisory Services, Tax Technology and Transformation, Transaction Tax.
+
+Consulting: comprises three sub-service lines – Business Consulting, Technology Consulting, and People Advisory Services.
+
+Strategy and Transactions (SaT): deals with companies' capital transformation – including Valuation, Modelling, and Economics (VME); Transactions Due Diligence; Real Estate Advisory; M&A; Turnaround & Restructuring (financial and operational); Corporate Finance.
+
+People Advisory Services: HR, immigration, workforce mobility programs
+
+Core Business Services: business development, marketing, legal, risk management
+
+EY revenues by service line – in US$ millions FY23 FY22 FY21 FY20 FY19 FY18 FY17 FY16 Assurance 15,096 14,282 13,567 12,821 12,646 12,534 11,632 11,301 Tax 12,088 11,240 10,467 9,765 9,460 8,995 8,179 7,751 Consulting 16,104 13,795 11,135 10,467 10,236 9,621 8,526 7,846 Strategy and transactions 6,066 5,848 4,790 4,181 4,052 3,622 3,067 2,728 Total 49,354 45,165 39,959 37,234 36,394 34,772 31,404 29,626
+
+Accounting scandals [ edit ]
+
+Audit practices [ edit ]
+
+EY has been involved in many accounting scandals: Bank of Credit and Commerce International (1991), Informix Corporation (1996), Sybase (1997), Cendant (1998), One.Tel (2001), AOL (2002), HealthSouth Corporation (2003), Chiquita Brands International (2004), Lehman Brothers (2010), Sino-Forest Corporation (2011), Olympus Corporation (2011), Stagecoach Group (2017),[50] Wirecard (2020),[51] Luckin Coffee (2020)[52] and NMC Health (2020).[53]
+
+In 2004, Ernst & Young was punished for forming a lucrative business arrangement with one of its audit clients, PeopleSoft, thus creating a conflict of interest. As a result, the firm was barred by the SEC from accepting any new publicly traded companies as audit clients for six months.[54]
+
+In April 2004, Equitable Life, a UK life assurance company, sued EY after nearly collapsing but abandoned the case in September 2005. EY described the case as "a scandalous waste of time, money and resources for all concerned."[55]
+
+In 2009, EY, the former auditors of Sons of Gwalia, agreed to a $125m settlement over their role in the gold miner's collapse in 2004. Ferrier Hodgson, the company's administrator, had claimed EY was negligent over the accounting of gold and dollar hedging contracts. However, EY said that the proposed settlement was not an admission of any liability.[56]
+
+Following allegations by the Securities and Exchange Commission (SEC) that EY had committed accounting fraud in its work auditing the books of Bally Total Fitness, EY reached two settlements in 2008, including a fine of $8.5 million.[57]
+
+EY Hong Kong resigned from the audit of Standard Water on when it emerged that although EY Hong Kong had signed off the audit, it had been effectively outsourced to the affiliate in mainland China, which had received 99.98% of the fee.[58] This was important because shareholders have less confidence in mainland auditors and because audit papers on the mainland are subject to state secrecy laws and can be withheld from outside regulators.[58] EY's quality and risk management leader (Greater China) even testified in the Court of First Instance that he was not sure whether there was a formal agreement covering the relationship between the two EY entities.[58] The court case in 2013 came as US regulators were taking an interest in similar cases of accounting fraud in mainland China.[58]
+
+In September 2016, the US securities regulatory SEC fined EY US US$9.3 million for failures, including an auditor's romantic involvement with a client. Another partner on the team who was auditing a different public company became romantically involved with its chief accounting officer.[59]
+
+In October 2016, EY settled with the SEC because they were unable to detect financial statement fraud that was committed by the Weatherford tax department.[60] Weatherford misstated their financial statements by manipulating the income tax line item in their financials. EY was Weatherford's independent auditors when the fraud was perpetrated.[61]
+
+In October 2016, Mozilla stopped accepting WebTrust audits from Ernst & Young Hong Kong[62] due to their failure "to detect multiple issues they should have detected" during their audits of WoSign.[63]
+
+In February 2017, in response to questions regarding misissued certificates, Symantec stated they would no longer accept WebTrust audits from E&Y Korea and E&Y Brazil due to deficiencies in these audits.[64]
+
+According to The Wall Street Journal, in 2019, EY had audited WeWork the office-space company that "nearly collapsed after fumbling a planned initial public offering".[52]
+
+In April 2020, a former partner and whistleblower was awarded $10.8 million for ethical misconduct by EY in a Dubai gold audit by the high court in London. EY appealed the decision,[65] but then dropped the appeal in March 2021.[66]
+
+In 2020, EY failed to uncover $2 billion that was missing at Wirecard AG, a German fintech payment processing company.[52] This resulted in a lawsuit filed against EY in June 2020.[67] An investigation by the Bundestag revealed in April 2021 that EY's audits of defunct payments group Wirecard suffered from serious shortcomings over a period of years.[68]
+
+EY also failed to identify $300 million in "fabricated sales" in their 2020 audit of the coffee chain Luckin Coffee[52] and $5 billion in "undisclosed debt" at NMC Health and Finablr.[52]
+
+In August 2021, EY US agreed to pay US$10 million as part of a settlement with the SEC related to charges of auditor independence misconduct perpetrated by several of its partners to secure Sealed Air as a client.[69]
+
+In August 2021, UK accounting regulatory Financial Reporting Council (FRC) fined EY UK £3.5 million (US$4.8 million) for failing to challenge financial statements in its 2017 audit of UK transport company, Stagecoach Group. In addition, the auditing engagement partner Mark Harvey was sanctioned and fined £100,000. EY's fine was subsequently cut to £2.2 million for admitting to the failings, with Harvey's fine reduced to £70,000 for the same reason.[50]
+
+In December 2021, EY filed a criminal complaint against unknown persons with Munich prosecutors relating to the alleged leak of a classified German parliamentary report relating to its role in the collapse of payments firm, Wirecard, to the German newspaper, Handelsblatt.[70]
+
+In April 2022 the administrators of NMC Health filed a $2.5 billion lawsuit against EY, alleging negligence during its work on NMC's accounts spanning a seven-year period.[71]
+
+In 2023, the Public Company Accounting Oversight Board reported on four EY Canada audits conducted in 2022 and found that half had "multiple deficiencies".[72]
+
+In April 2023, the German Abschlussprüferaufsichtsstelle (APAS) (the federal watchdog, responsible for the oversight on auditors) assessed, that EY has committed violations of duty on its Wirecard mandate and prohibited the company for two years to accept new audit mandates for companies at the German stock exchange.[73]
+
+In December 2024, a lawsuit was filed against EY accusing it of assisting the UAE-based Brooge Petroleum and Gas Investment Company FZE in defrauding investors during a 2019 special-purpose acquisition company (SPAC) merger. It alleges that Brooge fabricated financial data through fake invoices, customers and affiliated parties and forged 30-80% of its revenues between 2018 and 2020. EY allegedly supported Brooge’s scheme by “issuing unqualified audit opinions”. The lawsuit was filed by a group of Boorge Energy shareholders, who accused EY of fraud and violations of the Securities Exchange Act of 1934. The plaintiffs were seeking damages, interest, and legal fees.[74][75]
+
+In April 2025, the company was fined £4.9 million by the UK Financial Reporting Council for 'serious breaches in standards' in its audits of Thomas Cook, which collapsed in 2019.[76]
+
+Exam cheating by audit professionals [ edit ]
+
+In June 2022, the SEC fined the firm US$100 million "for cheating by its audit professionals on exams required to obtain and maintain Certified Public Accountant (CPA) licenses, and for withholding evidence of this misconduct from the SEC's Enforcement Division during the Division's investigation of the matter".[77] EY admitted "the facts underlying the SEC’s charges"[77] and the penalty is a record imposed on a US audit firm.[78] The Canadian Public Accountability Board has announced that it will investigate whether EY's Canadian arm was involved in similar practices.[79]
+
+Investment banking [ edit ]
+
+In 2009, in the Anglo Irish Bank hidden loans controversy, EY was criticised by politicians[80] and the shareholders of Anglo Irish Bank for failing to detect large loans to Seán FitzPatrick, its chairman, during its audits. The Irish Government had to subsequently take full ownership of the Bank at a cost of €28 billion.[81][82] The Irish Chartered Accountants Regulatory Board appointed John Purcell to investigate.[83] EY said it "fundamentally disagrees with the decision to initiate a formal disciplinary process" and that "there has been no adverse finding made against EY in respect of the audit of Anglo Irish Bank."[84]
+
+In 2009, EY agreed to pay US$200m out of court to settle a negligence claim by the liquidators of Akai Holdings.[85] Separately the firm was accused of falsifying and doctoring documents it presented to defend against the negligence claim by Akai's liquidators.[86] In a separate lawsuit, a former EY senior partner from 1984 to 1991, Cristopher Ho, and his listed company, Grande Holdings, paid over US$100m to Akai creditors to settle Akai's liquidators' claim that Ho conspired with Ting of stripping assets from Akai.[87][88] Police raided the Hong Kong office and arrested an EY partner who had been an audit manager on the Akai account from December 1997, although audit documents had been doctored dating back to 1994.[86] Akai was said to be the firm's largest client for most of the 1990s from Hong Kong.[89] The EY partner for the Akai account between 1991 and 1999, David Sun Tak-kei, faced no charges and went on to become co-managing partner for EY China.[86] A few months later EY settled a similar claim of up to HK$300m from the liquidators of Moulin Global Eyecare, an audit client of the Hong Kong affiliate between 2002 and 2004.[85] The liquidators described the Moulin accounts as a "morass of dodginess".[85]
+
+The Valukas Report issued in 2010[90] charged that Lehman Brothers engaged in a practice known as repo 105 and that EY, Lehman's auditor, was aware of it. EY was accused of professional malpractice regarding the lack of disclosure of Lehman's repo 105 practice in Lehman's public filings.[91] New York prosecutors announced in 2010[92] that they have sued the firm. David Goldfarb, a Lehman CFO who concocted the repo 105 balance sheet window dressing technique was a former senior partner of EY.[91] EY said that its last audit of Lehman Brothers was for the fiscal year ending 30 November 2007 and that Lehman's financial statements were fairly presented in accordance with Generally Accepted Accounting Principles.[93][94][95] In March 2015, EY settled Lehman-related lawsuits with municipalities in New Jersey and California.[96]
+
+In 2014, tax arrangements negotiated by EY for The Walt Disney Company, Koch Industries, Skype, and other multinational corporations became public in the so-called Luxembourg Leaks. The disclosure of these and other tax arrangements led to controversial discussions about tax avoidance.[97][98][99]
+
+In 2015, EY's member firm in Japan, Ernst & Young ShinNihon, was fined ¥2.1 billion (US$17.4 million) for failing to spot irregularities since 2008 while auditing its client Toshiba, which was Japan's worst accounting scandal in years. The firm was also suspended from taking up new business for three months. An official from Japan's Financial Services Agency (FSA) described that "there was a grave breach of duty". The firm's CEO and chairman, Koichi Hanabusa stepped down the following month to take responsibility and monthly salaries for 19 employees were cut from 20 per cent to 50 per cent.[100][101] In an unusual move, the FSA publicly named seven accountants involved in the audit who were accused of failing to exercise due caution and signing off on false financial documents.[101] The FSA also said the "firm’s operations were deeply improper".[101] ShinNihon, at the time, was Japan's biggest accounting firm, with 3,500 certified accountants and 4,000 clients.[100] ShinNihon audited about 960 listed companies in Japan, the most among the Big Four, as reported in 2015.[102] ShinNihon had audited Toshiba for over 60 years and the firm had around 70 staff serving Toshiba before the accounting scandal broke.[102]
+
+In 2017, Ernst & Young Baltic, member of the EY network, was accused of using the emission assumptions of highly polluting EURO II trucks (manufactured before 2001) to falsely increase the socio-economic benefits of the new railway for the period 2026–2055 by 3 billion euros in the Rail Baltica Cost-Benefit Analysis. The total mistakes amounted to more than 4 billion euros and constituted 20% of the total socio-economic benefit of the Rail Baltica.[103] Correction of the mistakes made the project unfeasible. EY has refused to provide any comments to the media regarding the public accusations.[104]
+
+Controversies [ edit ]
+
+Sexist training program [ edit ]
+
+In October 2019, HuffPost broke a story about a New Jersey "Power-Presence-Purpose" training seminar purportedly to empower female employees, but which was, as characterized by HuffPost, "full of out of touch advice".[105] Women were told to concentrate on their appearance, not to show too much skin, and not to speak too much. One participant said it was basically a "women bashing" exercise. "You have to offer your thoughts in a benign way...You have to be the perfect Stepford wife... It felt like they were being turned into someone who is super-smiley, who never confronts anyone" she said.[106] In 2021, EY agreed to pay the state of New Jersey $100,000 and set up a $500,000 scholarship following its investigation of the program to resolve claims EY broke state law against discrimination.[107]
+
+Working rights [ edit ]
+
+In April 2021, EY's second-year auditor staff in their Barcelona office sent an email to their line managers to complain about the long hours that they had to work, which were sometimes reaching 84 working hours per week.[108]
+
+Elizabeth Broderick & Co. Culture Review [ edit ]
+
+In July 2023, an independent culture review by the former Australian sex discrimination commissioner Elizabeth Broderick was released after being commissioned by EY following the suicide of an auditor in the Sydney office in August 2022. Over 4,500 participants from the Australian and New Zealand EY offices participated through online surveys, interviews, written submissions, and group listening sessions. The report revealed that 15% of EY employees have experienced instances of either bullying, sexual harassment, or racism. The report also detailed the long working hours, with approximately two in five employees considering quitting due to long work hours and 46% of respondents reporting that their health has been negatively affected due to the long hours. The culture review revealed that over 31% of EY employees worked over 51 hours per week routinely, and 11% of EY employees working over 61 hours per week routinely.[109]
+
+In April 2024, EY apologized for its workplace culture and said it has started a "time-owed-in-lieu pilot" and is "making strong progress" on other report recommendations.[110]
+
+Ernst & Young is involved in many sponsorships, including its World Entrepreneur of the Year Award program, held in over 60 countries.[111]
+
+The awards are an annual award program sponsored by Ernst & Young in recognition of entrepreneurship. Founded in 1986 in Milwaukee as a single award, the program now runs in all 50 U.S. states and in more than 60 countries.[112]
+
+At the country and territory levels, programs begin with nomination[113] of entrepreneurs who demonstrate specific criteria. The award may be given to multiple individuals per year. For example, in the U.S. and other countries, there are multiple regional and category winners, spanning fields such as for retail and consumer products, technology, family business, energy, chemical and mining, food products and services, real estate, hospitality, and construction, financial services, digital media, and transformational ventures.[114] However, in each country, only one company and its leader(s) are recognized as the overall award recipient.[115]
+
+Since 1986, over 10,000 founders, CEOs, and business leaders have received awards.[116]
+
+Art and media [ edit ]
+
+EY UK sponsors exhibitions of works by famous artists, such as Cézanne, Picasso, Bonnard, Monet, Rodin and Renoir. The most recent of these was Maharaja: the Splendour of India's Royal Courts at the Victoria and Albert Museum.[117]
+
+In addition, EY sponsors the educational children's show Cyberchase on PBS Kids under the PBS Kids GO! television brand, in an effort to improve mathematics literacy in children.[118]
+
+EY in the UK sponsors the ITEM club.[119]
+
+EY in the UK has set up the National Equality Standard (NES), an initiative developed for business which sets clear equality, diversity and inclusion (EDI) criteria against which companies are assessed. The National Equality Standard (NES) is currently the only industry recognized national standard for EDI in the UK.[120]
+
+EY in the UK has set up EY Foundation, a new UK charity set up to support young people and entrepreneurs.[121]
+
+Sports [ edit ]
+
+On 8 September 2011, Rio 2016 made the announcement that EY would be an official sponsor of the 2016 Summer Olympics to be held in Brazil, as the exclusive provider of professional services – consulting and auditing – for Rio 2016 organizing committee.[122]
+
+EY was an Official Partner to the 2012 and the 2014 Ryder Cups,[123] it partners with the British and Irish Lions.,[124] and it has a longstanding relationship with the 2011 Tour de France winner Cadel Evans.[125]
+
+In April 2019, EY announced a two-year-long collaboration with USA Rugby, where EY would act as their Official Principal Partner. The partnership was focusing on digital and technological transformations, as well as innovating and growing the game in the US, while specifically mentioning an overhaul of USA Rugby's diversity and inclusiveness program.[126]
+
+See also [ edit ]
+
+References [ edit ]
+
+Media related to Ernst & Young at Wikimedia Commons
+
+## Curated Relevant Data
+### EY's Indian Operations, Financial Disclosures, and Numeric Data
+
+#### Financial Data:
+- **Global Revenue**: EY reported a global revenue of $51.2 billion for FY24, reflecting a 3.9% increase in local currency.
+- **Investment in Training**: EY invested $2.1 billion in training over five fiscal years, delivering over 100 million learning hours.
+- **Sustainability Initiatives**: EY reduced absolute GHG emissions by 40% since FY19 and prevented an additional 98,000 tons of CO2e emissions in FY24.
+
+#### Indian Operations:
+- **Security Operations Centre**: In 2015, EY opened a Security Operations Centre in Thiruvananthapuram, Kerala, India, with a $20 million investment over five years to combat cybercrimes.
+
+#### Numeric Data:
+- **EY Ripples Impact**: Since 2018, EY Ripples has positively impacted over 192 million lives.
+- **Acquisitions and Alliances**: EY made 85 acquisitions, 77 alliances, and over 100 ecosystem relationships over five years.
+- **AI Initiatives**: Launched EY.ai and EYQ, with 68 million prompts generated since September 2023.
+
+This structured overview focuses on EY's financial performance, specific investments in India, and key numeric achievements, excluding generic marketing content.
+
+## Financial Data
+- Last Traded Price: ₹None
+- Change (%): 0.00%
+- Previous Close: ₹None
+- Day High: ₹None
+- Day Low: ₹None
+- 52 Week High: ₹None
+- 52 Week Low: ₹None
+- Face Value: ₹None
+
+## Financial Ratios
+- Net Margin: N/A
+- Debt to Assets: N/A
+- P/E Ratio: N/A
+
+## Latest News
+- **EY veteran Ajay Shah to join ace investor Madhu Kela’s family office** (2025-06-29)
+  https://www.livemint.com/companies/people/ajay-shah-joins-madhu-kela-mk-ventures-financial-services-11751170659186.html
+
+- **Family offices in India surge to 300: EY‑Julius Baer study** (2025-06-26)
+  https://timesofindia.indiatimes.com/business/india-business/family-offices-in-india-surge-to-300-eyjulius-baer-study/articleshow/122097100.cms
+
+- **PCAOB fines Dutch units of Deloitte, PwC, EY for exam misconduct** (2025-06-26)
+  https://www.theaccountant-online.com/news/pcaob-fines-dutch-units/
+
+- **China is a real threat to US biotech innovation: EY life science expert** (2025-06-25)
+  https://finance.yahoo.com/news/china-is-a-real-threat-to-us-biotech-innovation-ey-life-science-expert-161927901.html
+
+## Stock Information
+- **Current Price:** $4.23
+- **52-Week High:** $4.30
+- **52-Week Low:** $2.56
+- **1-Month Change:** +0.48%
+- **Volatility (Std Dev over 30 days):** 1.36%

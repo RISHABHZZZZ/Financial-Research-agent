@@ -1,0 +1,654 @@
+# Raw Data for deloitte
+
+
+## Web Search Data
+## Article from https://www.deloitte.com/global/en/about/press-room/global-revenue-announcement.html
+Key highlights:
+
+Reports FY2024 revenue of US$67.2 billion, a 3.1% increase in local currency
+
+Workforce expanded to approximately 460,000 globally
+
+New York, NY, 12 September 2024 — Deloitte today reported aggregate global revenue of US$67.2 billion for the fiscal year ending 31 May 2024 (FY2024), a 3.1% increase in local currency (and 3.6% increase in USD) from FY2023.
+
+"In a complex global environment over the past year, Deloitte successfully sustained a growth trajectory while investing heavily in the next generation of capabilities aligned to emerging areas of client demand,” says Joe Ucuzoglu, Deloitte Global CEO. “Our unrivaled breadth of capabilities spanning advanced technologies, sector depth, and expertise in critical business functions, positions Deloitte uniquely to help clients, markets, and society at large maximize the value of tech-driven transformation.”
+
+Building resilience, creating enduring value
+
+Deloitte pervasively embeds purpose into the work we do with clients: building trust and confidence in business and markets through leading audit quality, turning deep insights into strategic action, responsibly creating and protecting value, and delivering innovative solutions that drive economic growth.
+
+Accelerating GenAI solutions and digital transformation: Deloitte practitioners bring together deep technical knowledge and business acumen to help enterprises integrate GenAI into their business strategies and drive substantial transformation within their organizations and industries. We are harnessing the potential of GenAI to drive tangible benefits and value creation for companies across industries, and helping to turn their ambitions into reality by scaling up GenAI deployments beyond pilots and proofs of concept. Deloitte’s GenAI incubator network, spanning three regions and eight countries, enables clients to experiment with GenAI tools—then develop, deploy, and scale GenAI solutions within their organizations. Over the past year, Deloitte has helped clients deliver more than 700 projects to provide process efficiency, cost reduction, elevated customer experience, and greater value in the form of new insights, faster innovation, and accelerated growth. To fuel this momentum, in our long-term plan we have aligned over US$3 billion of investments in GenAI globally through FY2030, on top of our $1 billion multi-year investment in AI-enabled delivery platforms, capabilities expansion, and capacity scaling for AI and data services in the past. Deloitte also employs its Trustworthy AITM framework to help manage GenAI-related risks.
+
+We draw on our strong ecosystems and alliances and collaborations with many of the world’s leading technology providers to guide clients through this rapid pace of change. Deloitte was honored to be named Google Cloud Industry Solution Services Partner of the Year - Generative AI (2023) and AWS Global Data & Analytics Partner of the Year (2023), as a testament to our ability to build industry-leading solutions with AI at the center. We continue to strengthen our relationship with NVIDIA by shaping new market opportunities and developing innovative business models such as custom foundation models using NVIDIA's NIM Workflow Blueprints and are proud to be named NVIDIA Partner Network Global Consulting Partner of the Year for the fourth consecutive year. These relationships are vital to help address some of Deloitte clients’ and society’s most complex challenges. Deloitte’s GenAI incubator network works directly with Deloitte’s alliance and technology relationships including leading enterprise software, hardware, and cloud vendors.
+
+Deloitte is also partnering with the International Olympic Committee (IOC) to bring its vast digital consulting experience to help facilitate the development of the Olympic AI Agenda. This will help guide the IOC and the Olympic Movement into a future where AI enhances many facets of human potential and democratizes sports.
+
+Shaping sustainable growth: Sustainability challenges are urgent, defining topics for business leaders—and navigating this complex landscape requires sophisticated solutions. Deloitte Sustainability works with organizations across industries and regions to help drive meaningful advances in their climate-led transformations. We assist clients as they embed sustainability into their strategies and operations, develop new sustainable products and services, re-engineer their supply chains, finance their initiatives, consider tax implications, build resilience and cope with climate change, measure and report on their progress, and manage evolving sustainability regulation requirements.
+
+Through our ecosystems and alliances relationships, we work with the world’s leading technology organizations to help our clients achieve regulatory compliance, unlock data driven insights, strengthen their decarbonization strategies and prioritize sustainability investments. Technology innovation is at the heart of our business, and we have developed several solutions to help solve our clients most pressing sustainability needs. From proprietary technologies that help organizations navigate sustainability requirements around the world, such as the European Union’s Corporate Sustainability Reporting Directive (CSRD), to applying geospatial technologies that address on-the-ground challenges, while developing new business applications across multiple industries.
+
+In recognition, Deloitte has been named a leader in the Verdantix ESG & Sustainability Consulting Green Quadrant 2024.
+
+Embedding continuous advantage: Deloitte practitioners work with organizations to design, build, and manage their critical business functions through Deloitte’s Operate services and global delivery center network. Through Deloitte’s deep industry knowledge, leading-edge technology, automation, and data insights, we help clients increase operational efficiency and agility, add value, and embed continuous advantage into their operations.
+
+Over the past year, Deloitte continued to expand its Operate services with new industry-specific solutions. For example, Operate’s Future of Travel service is designed to make travel more seamless and secure by modernizing the enterprise systems and operational processes that facilitate travel with digital issuance and arrival solutions—unlocking a future where passengers can secure necessary travel documents and complete their journeys more swiftly and smoothly. The Software-Defined Vehicles end-to-end platform helps manufacturers to send secure updates, accelerate time to market, and integrate third-party applications, while reducing manual inputs. Operate teams are also incorporating new and emerging industry disruptions, such as GenAI. Deloitte’s AI Factory as a Service helps enterprises unlock value from this new technology in a rapid, scaled, and cost-effective manner across multiple industries and businesses. The service provides immediate access to dynamic high-compute infrastructure, AI software, third-party data, and hard-to-source skills and experience to help clients ideate, develop, and run custom AI/GenAI use cases, workflows, and models to achieve business outcomes that matter.
+
+Deloitte was recognized as a Leader in the 2024 Gartner® Magic Quadrant™ for Finance & Accounting Business Process Outsourcing.
+
+Helping organizations navigate change and complexity
+
+Deloitte is modernizing and simplifying its storefront and go-to market strategy. Over the course of FY2025, we are aligning our capabilities into the following business units: Audit & Assurance, Tax & Legal, and two units housing our Consulting services: Strategy, Risk & Transactions and Technology & Transformation. This modernization better aligns our market-leading multidisciplinary capabilities with the most important strategic issues our clients are facing. We expect this will enhance our ability to provide integrated solutions that address our clients’ emerging issues, and help us deliver the highest quality services to all of our stakeholders.
+
+Our FY2024 results are presented in accordance with our prior business unit structure. For FY2024, Tax & Legal revenue grew fastest among Deloitte’s businesses at 8.7% in local currency, followed by Audit & Assurance, which grew 4.1%. Among the regions, EMEA grew the fastest at 8.5%, followed by the Americas at 1.4%. For the third consecutive year, Deloitte received the highest possible rating, an Overall Strong, from Gartner in its 2024 vendor rating report.
+
+
+
+Audit & Assurance: As a leader in quality, Deloitte Audit & Assurance (A&A) is committed to building trust and confidence in corporate reporting ecosystems—upholding integrity, independence, and transparency across 180,000+ engagements worldwide over the past year. A&A has made significant progress in transforming how we deliver our services to further enhance audit quality through our innovative platforms, Deloitte Omnia and Deloitte Levvia, including developing additional Gen AI-enabled capabilities and solutions. As entities embrace the need to communicate beyond traditional financial reporting, Deloitte continues to provide assurance in emerging areas across accounting, controls, and corporate reporting, increasing transparency with stakeholders. Audit & Assurance revenue grew 4.1% in local currency.
+
+As a leader in quality, Deloitte Audit & Assurance (A&A) is committed to building trust and confidence in corporate reporting ecosystems—upholding integrity, independence, and transparency across 180,000+ engagements worldwide over the past year. A&A has made significant progress in transforming how we deliver our services to further enhance audit quality through our innovative platforms, Deloitte Omnia and Deloitte Levvia, including developing additional Gen AI-enabled capabilities and solutions. As entities embrace the need to communicate beyond traditional financial reporting, Deloitte continues to provide assurance in emerging areas across accounting, controls, and corporate reporting, increasing transparency with stakeholders. Audit & Assurance revenue grew 4.1% in local currency. Consulting: Deloitte Consulting continued to invest in advanced technologies and industry insights, enabling practitioners to create value for many of the world’s most important public and private organizations. Drawing on the transformative power of GenAI and the breadth of our multidisciplinary capabilities, we brought innovative ideas and tailored solutions, helping clients identify and address their most complex business challenges and navigate the future. We launched Deloitte Ascend TM , a leading-edge digital delivery platform, to provide our talent and clients with best-in-class digital resources and real-time data. Deloitte was ranked the number one consulting service provider worldwide by revenue, for the seventh consecutive year, in the Gartner Market Share report. Consulting revenue grew 1.9% in local currency.
+
+Deloitte Consulting continued to invest in advanced technologies and industry insights, enabling practitioners to create value for many of the world’s most important public and private organizations. Drawing on the transformative power of GenAI and the breadth of our multidisciplinary capabilities, we brought innovative ideas and tailored solutions, helping clients identify and address their most complex business challenges and navigate the future. We launched Deloitte Ascend , a leading-edge digital delivery platform, to provide our talent and clients with best-in-class digital resources and real-time data. Deloitte was ranked the number one consulting service provider worldwide by revenue, for the seventh consecutive year, in the Gartner Market Share report. Consulting revenue grew 1.9% in local currency. Financial Advisory: Deloitte Financial Advisory practitioners helped create and preserve value for over 20,000 clients, acting as trusted C-Suite and board advisors in a complex and constantly changing environment. Our end-to-end M&A practices advised companies on growth strategies, driving transformation, and developing new and deeper capabilities in sustainability and AI. Our Forensic and Discovery specialists worked with public and private sector organizations to help them address global financial crime, navigate fraud, waste, and abuse, and manage large scale litigations and regulatory responses with proprietary AI solutions. Our Infrastructure and Economic Advisory practices provided insights and impartial economic analysis and research; quantified economic and social impacts of net zero targets and iconic global sporting events; supported decisions to deliver social and economic objectives; and developed the first-of-its-kind clean hydrogen energy model, which will be instrumental as countries continue to transition energy sources. Financial Advisory revenue declined 3.8% in local currency.
+
+Deloitte Financial Advisory practitioners helped create and preserve value for over 20,000 clients, acting as trusted C-Suite and board advisors in a complex and constantly changing environment. Our end-to-end M&A practices advised companies on growth strategies, driving transformation, and developing new and deeper capabilities in sustainability and AI. Our Forensic and Discovery specialists worked with public and private sector organizations to help them address global financial crime, navigate fraud, waste, and abuse, and manage large scale litigations and regulatory responses with proprietary AI solutions. Our Infrastructure and Economic Advisory practices provided insights and impartial economic analysis and research; quantified economic and social impacts of net zero targets and iconic global sporting events; supported decisions to deliver social and economic objectives; and developed the first-of-its-kind clean hydrogen energy model, which will be instrumental as countries continue to transition energy sources. Financial Advisory revenue declined 3.8% in local currency. Risk Advisory: Combining our expertise in risk consulting with the latest technologies and tailored strategies in disciplines such as cyber, sustainability, regulation, compliance, and enterprise controls, Deloitte practitioners enabled organizations to be resilient amidst crises and market complexities. Through our updated global cyber strategy, Deloitte has formed strategic relationships with top technology providers, including the introduction of ConvergeSECURITY in collaboration with AWS; and the introduction of the CyberSphere offering with NVIDIA Morpheus, all aimed at delivering enhanced value to Deloitte clients. We continued to grow our Financial Crime Operate capabilities, helping clients solve complex challenges in areas such as financial and insurance related fraud. As organizations increase technology adoption, Deloitte helped clients re-imagine the evolution of enterprise controls and effectively respond to a rapidly changing environment. Deloitte ranked no. 1 in the Gartner Market Share Analysis: Security Services, Worldwide, 2023. Risk Advisory revenue grew 3.2% in local currency.
+
+
+
+Combining our expertise in risk consulting with the latest technologies and tailored strategies in disciplines such as cyber, sustainability, regulation, compliance, and enterprise controls, Deloitte practitioners enabled organizations to be resilient amidst crises and market complexities. Through our updated global cyber strategy, Deloitte has formed strategic relationships with top technology providers, including the introduction of ConvergeSECURITY in collaboration with AWS; and the introduction of the CyberSphere offering with NVIDIA Morpheus, all aimed at delivering enhanced value to Deloitte clients. We continued to grow our Financial Crime Operate capabilities, helping clients solve complex challenges in areas such as financial and insurance related fraud. As organizations increase technology adoption, Deloitte helped clients re-imagine the evolution of enterprise controls and effectively respond to a rapidly changing environment. Deloitte ranked no. 1 in the Gartner Market Share Analysis: Security Services, Worldwide, 2023. Risk Advisory revenue grew 3.2% in local currency. Tax & Legal: The rapid emergence of GenAI and the implementation of the OECD’s two-pillar approach to tax challenges catapulted tax up the corporate board agenda, and Deloitte’s services and technology tools are helping clients with impact assessment and response, compliance, and reporting, as well as automating processes, expediting response times, and enhancing accuracy. Through our comprehensive Operate services, including implementation and outsourcing, we are helping clients meet their compliance obligations and improve operational efficiency. We are continuing to innovate with our Intela tax technology platform, which is an integrated tech ecosystem for tax work planning, management, data collection, analysis, and transformation. Deloitte Legal practitioners continue to guide businesses in integrating legal considerations into core business operations—enhancing the accuracy and speed of processes, realizing efficiencies, mitigating legal risk, and uncovering new insights using advanced analytics. Tax & Legal revenue grew 8.7% in local currency.
+
+Leading with purpose, making an impact that matters across our global society
+
+In the face of pressing societal challenges—from education and health equity to diversity and inclusion at work—Deloitte is working to advance progress across our global society. Through the services Deloitte people provide, our investments, and our portfolio of initiatives focused on creating educational and skills-building opportunities, we are helping to create a more equitable future.
+
+Making progress on our climate commitments: Addressing climate risk is crucial to the success of our business, our clients, and society as a whole. We are committed to reducing our greenhouse gas (GHG) emissions and supporting our clients in doing the same. In FY2024 we focused on developing our long-term, science-based, net-zero targets and climate transition plan. Our emissions reduction targets call for a fundamental transformation within our business operations. That’s why we are implementing policies and programs to accelerate decarbonization, particularly in our highest emitting areas — travel, technology, and real estate. Recognizing that the majority of our emissions originate from our supply chain, we are collaborating closely with our suppliers to set science-based targets, implement emissions reductions, and enhance product-level emissions reporting.
+
+Addressing climate risk is crucial to the success of our business, our clients, and society as a whole. We are committed to reducing our greenhouse gas (GHG) emissions and supporting our clients in doing the same. In FY2024 we focused on developing our long-term, science-based, net-zero targets and climate transition plan. Our emissions reduction targets call for a fundamental transformation within our business operations. That’s why we are implementing policies and programs to accelerate decarbonization, particularly in our highest emitting areas — travel, technology, and real estate. Recognizing that the majority of our emissions originate from our supply chain, we are collaborating closely with our suppliers to set science-based targets, implement emissions reductions, and enhance product-level emissions reporting. Impacting 100 million futures: Our WorldClass ambition is to positively impact 100 million futures by 2030 through programs and collaborations with leading educational organizations, non-profits, clients, and innovators. With Deloitte donating funds, and our people volunteering their time and abilities, our efforts have provided support to millions of students, teachers, and education leaders worldwide. We have impacted 81 million individuals since 2017, including 24 million during FY2024. For example, Deloitte India has been supporting Mantra Social Services to bolster the skills of state education leaders and teachers across the country, impacting over two million students this year. See stories from young people from around the world, supported by our programs.
+
+
+
+Our WorldClass ambition is to positively impact 100 million futures by 2030 through programs and collaborations with leading educational organizations, non-profits, clients, and innovators. With Deloitte donating funds, and our people volunteering their time and abilities, our efforts have provided support to millions of students, teachers, and education leaders worldwide. We have impacted 81 million individuals since 2017, including 24 million during FY2024. For example, Deloitte India has been supporting Mantra Social Services to bolster the skills of state education leaders and teachers across the country, impacting over two million students this year. See stories from young people from around the world, supported by our programs. Enabling a better world through sport with the IOC and IPC: During the past year, we furthered our “partnership with purpose” with the IOC and the International Paralympic Committee (IPC) by applying Deloitte’s deep management and business consulting acumen to help the IOC realize the possibilities of its Olympic Agenda 2020+5 as well as support initiatives related to sustainability and athlete career transition and well-being. In August 2024, Deloitte and the IOC announced an expansion of their Worldwide Olympic Partnership.
+
+During the past year, we furthered our “partnership with purpose” with the IOC and the International Paralympic Committee (IPC) by applying Deloitte’s deep management and business consulting acumen to help the IOC realize the possibilities of its Olympic Agenda 2020+5 as well as support initiatives related to sustainability and athlete career transition and well-being. In August 2024, Deloitte and the IOC announced an expansion of their Worldwide Olympic Partnership. Advancing health equity around the world: The Deloitte Health Equity Institutes (DHEIs) bring business, government, and community leaders together to help advance health equity. Each of the DHEIs drives an array of cross-sector collaborations, philanthropic investments, and research activities focused on the unique health challenges in their respective regions. For instance, in Spanish Latin America (S-LATAM), the S-LATAM DHEI is engaged in collaborative efforts to help improve access to timely diagnosis and treatment of breast and cervical cancer in Peru and Mexico. And the Europe DHEI published a landmark report, in collaboration with Mind and Place2Be, on the cost of mental health as well as the impact that children’s mental health has on parents and productivity.
+
+Supporting our people
+
+Deloitte is focused on supporting the professional and personal growth of our 460,000 people around the world—from the meaningful and challenging work we provide, to the world-class learning and development we offer, to our inclusive culture where all our people can thrive throughout their career journeys.
+
+Developing lifelong learners: In FY2024, our Learning & Development direct investment totaled more than $647 million globally. We develop our people throughout their careers, with a focus on accelerating agility and leadership skills and strengthening capabilities around critical challenges facing Deloitte clients and our global society. We also deliver tech-focused reskilling in response to the rapid pace of innovation. This includes hot skills training around AI, cloud, and cyber, as well as “hire to train” programs, which help enable Deloitte to diversify our recruiting pipeline and where future Deloitte people have the opportunity to gain the credentials and on-the-job experience they need to help them succeed in future roles. In FY2024, we delivered over 21 million formal training hours for our people. Our deep learning and development offerings include programs at Deloitte University (DU), as well as virtual and on-demand learning. Over the past year, we continued to expand DU’s global footprint with the opening of DU Europe, Middle East, and Africa (EMEA), a leading-edge facility located just outside Paris, France.
+
+
+
+In FY2024, our Learning & Development direct investment totaled more than $647 million globally. We develop our people throughout their careers, with a focus on accelerating agility and leadership skills and strengthening capabilities around critical challenges facing Deloitte clients and our global society. We also deliver tech-focused reskilling in response to the rapid pace of innovation. This includes hot skills training around AI, cloud, and cyber, as well as “hire to train” programs, which help enable Deloitte to diversify our recruiting pipeline and where future Deloitte people have the opportunity to gain the credentials and on-the-job experience they need to help them succeed in future roles. In FY2024, we delivered over 21 million formal training hours for our people. Our deep learning and development offerings include programs at Deloitte University (DU), as well as virtual and on-demand learning. Over the past year, we continued to expand DU’s global footprint with the opening of DU Europe, Middle East, and Africa (EMEA), a leading-edge facility located just outside Paris, France. Fostering an inclusive culture and diverse workforce: Deloitte’s global diversity, equity, and inclusion (DEI) strategy is founded on six core pillars—disability inclusion; LGBT+ inclusion; mental health; neurodiversity; race, ethnicity, and indigenous communities; and women’s equity—underpinned by a focus on a respectful and inclusive culture. Deloitte firms focus their DEI efforts around these pillars, alongside any specific DEI priorities relevant to their local communities. We strive to bring our purpose to life for our people by helping enable them maximize the contributions they make to Deloitte clients and the communities in which they live, and we have been recognized for bringing these commitments to life around the world. Deloitte was named among the World’s Best Workplaces in 2023 by Great Place To Work®, ranking No. 6, named an Ambassador for the 2023 Workplace Pride Impact Award, and named a 2023 Global Equality Champion for Open For Business, among many other honors received around the world.
+
+
+
+Note: Deloitte’s 2024 Global Impact Report will be released later this year.
+
+Gartner, Magic Quadrant for Finance and Accounting Business Process Outsourcing, May 2024
+
+Gartner, Vendor Rating: Deloitte, May 2024
+
+Gartner, Market Share Analysis: Consulting Services, Worldwide, 2023, June 2024
+
+Gartner, Market Share Analysis: Security Services, Worldwide, 2023, July 2024
+
+GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally, and MAGIC QUADRANT is a registered trademark of Gartner, Inc. and/or its affiliates and are used herein with permission. All rights reserved.
+
+Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+
+## Article from https://www.deloitte.com/cy/en/about/press-room/global-revenue-announcement.html
+Key highlights:
+
+
+
+Reports FY2024 revenue of US$67.2 billion, a 3.1% increase in local currency
+
+Workforce expanded to approximately 460,000 globally
+
+New York, NY, 12 September 2024 — Deloitte today reported aggregate global revenue of US$67.2 billion for the fiscal year ending 31 May 2024 (FY2024), a 3.1% increase in local currency (and 3.6% increase in USD) from FY2023.
+
+"In a complex global environment over the past year, Deloitte successfully sustained a growth trajectory while investing heavily in the next generation of capabilities aligned to emerging areas of client demand,” says Joe Ucuzoglu, Deloitte Global CEO. “Our unrivalled breadth of capabilities spanning advanced technologies, sector depth and expertise in critical business functions, positions Deloitte uniquely to help clients, markets and society at large maximise the value of tech-driven transformation.”
+
+Building resilience, creating enduring value
+
+Deloitte pervasively embeds purpose into the work we do with clients: building trust and confidence in business and markets through leading audit quality, turning deep insights into strategic action, responsibly creating and protecting value and delivering innovative solutions that drive economic growth.
+
+Accelerating GenAI solutions and Digital Transformation: Deloitte practitioners bring together deep technical knowledge and business acumen to help enterprises integrate GenAI into their business strategies and drive substantial transformation within their organisations and industries. We are harnessing the potential of GenAI to drive tangible benefits and value creation for companies across industries and helping to turn their ambitions into reality by scaling up GenAI deployments beyond pilots and proofs of concept. Deloitte’s GenAI incubator network, spanning three regions and eight countries, enables clients to experiment with GenAI tools—then develop, deploy and scale GenAI solutions within their organisations. Over the past year, Deloitte has helped clients deliver more than 700 projects to provide process efficiency, cost reduction, elevated customer experience and greater value in the form of new insights, faster innovation and accelerated growth. To fuel this momentum, in our long-term plan we have aligned over US$3 billion of investments in GenAI globally through FY2030, on top of our $1 billion multi-year investment in AI-enabled delivery platforms, capabilities expansion and capacity scaling for AI and Data services in the past. Deloitte also employs its Trustworthy AITM framework to help manage GenAI-related risks.
+
+We draw on our strong ecosystems and alliances and collaborations with many of the world’s leading technology providers to guide clients through this rapid pace of change. Deloitte was honoured to be named Google Cloud Industry Solution Services Partner of the Year - Generative AI (2023) and AWS Global Data & Analytics Partner of the Year (2023), as a testament to our ability to build industry-leading solutions with AI at the centre. We continue to strengthen our relationship with NVIDIA by shaping new market opportunities and developing innovative business models such as customised foundation models using NVIDIA's NIM Workflow Blueprints and are proud to be named NVIDIA Partner Network Global Consulting Partner of the Year for the fourth consecutive year. These relationships are vital to help address some of Deloitte clients’ and society’s most complex challenges. Deloitte’s GenAI incubator network works directly with Deloitte’s alliance and technology relationships including leading enterprise software, hardware and cloud vendors.
+
+Deloitte is also partnering with the International Olympic Committee (IOC) to bring its vast digital consulting experience to help facilitate the development of the Olympic AI Agenda. This will help to guide the IOC and the Olympic Movement into a future where AI enhances many facets of human potential and democratises sports.
+
+Shaping sustainable growth: Sustainability challenges are urgent, defining topics for business leaders—and navigating this complex landscape requires sophisticated solutions. Deloitte Sustainability works with organisations across industries and regions to help drive meaningful advances in their climate-led transformations. We assist clients as they embed sustainability into their strategies and operations, develop new sustainable products and services, re-engineer their supply chains, finance their initiatives, consider tax implications, build resilience and cope with climate change, measure and report on their progress and manage evolving sustainability regulation requirements.
+
+Through our ecosystems and alliances relationships, we work with the world’s leading technology organisations to help our clients achieve regulatory compliance, unlock Data driven insights, strengthen their decarbonisation strategies and prioritise Sustainability investments. Technology innovation is at the heart of our business and we have developed several solutions to help solve our clients most pressing Sustainability needs. From proprietary technologies that help organisations navigate Sustainability requirements around the world, such as the European Union’s Corporate Sustainability Reporting Directive (CSRD), to applying geospatial technologies that address on-the-ground challenges, while developing new business applications across multiple industries.
+
+In recognition, Deloitte has been named a leader in the Verdantix ESG & Sustainability Consulting Green Quadrant 2024.
+
+Embedding continuous advantage: Deloitte practitioners work with organisations to design, build and manage their critical business functions through Deloitte’s Operate services and global delivery centre network. Through Deloitte’s deep industry knowledge, leading-edge technology, automation and Data insights, we help clients increase operational efficiency and agility, add value and embed continuous advantage into their operations.
+
+Over the past year, Deloitte continued to expand its Operate services with new industry-specific solutions. For example, Operate’s Future of Travel service is designed to make travel more seamless and secure by modernising the enterprise systems and operational processes that facilitate travel with digital issuance and arrival solutions—unlocking a future where passengers can secure necessary travel documents and complete their journeys more swiftly and smoothly. The Software-Defined Vehicles end-to-end platform helps manufacturers to send secure updates, accelerate time to market and integrate third-party applications, while reducing manual inputs. Operate teams are also incorporating new and emerging industry disruptions, such as GenAI. Deloitte’s AI Factory as a Service helps enterprises unlock value from this new technology in a rapid, scaled and cost-effective manner across multiple industries and businesses. The service provides immediate access to dynamic high-compute infrastructure, AI software, third-party Data and hard-to-source skills and experience to help clients ideate, develop and run custom AI/GenAI use cases, workflows and models to achieve business outcomes that matter.
+
+Deloitte was recognised as a Leader in the 2024 Gartner® Magic Quadrant™ for Finance & Accounting Business Process Outsourcing.
+
+Helping organisations navigate change and complexity
+
+Deloitte is modernising and simplifying its shop front and go-to market strategy. Over the course of FY2025, we are aligning our capabilities into the following business units: Audit & Assurance, Tax & Legal and two units housing our Consulting services: Strategy, Risk & Transactions and Technology & Transformation. This modernisation better aligns our market-leading multi-disciplinary capabilities with the most important strategic issues our clients are facing. We expect this will enhance our ability to provide integrated solutions that address our clients’ emerging issues and help us to deliver the highest quality services to all of our stakeholders.
+
+Our FY2024 results are presented in accordance with our prior business unit structure. For FY2024, Tax & Legal revenue grew fastest among Deloitte’s businesses at 8.7% in local currency, followed by Audit & Assurance, which grew 4.1%. Among the regions, EMEA grew the fastest at 8.5%, followed by the Americas at 1.4%. For the third consecutive year, Deloitte received the highest possible rating, an Overall Strong, from Gartner in its 2024 vendor rating report.
+
+
+
+
+
+Audit & Assurance: As a leader in quality, Deloitte Audit & Assurance (A&A) is committed to building trust and confidence in corporate Reporting ecosystems—upholding integrity, independence and transparency across 180,000+ engagements worldwide over the past year. A&A has made significant progress in transforming how we deliver our services to further enhance audit quality through our innovative platforms, Deloitte Omnia and Deloitte Levvia, including developing additional Gen AI-enabled capabilities and solutions. As entities embrace the need to communicate beyond traditional financial Reporting, Deloitte continues to provide assurance in emerging areas across accounting, controls and corporate Reporting, increasing transparency with stakeholders. Audit & Assurance revenue grew 4.1% in local currency.
+
+As a leader in quality, Deloitte Audit & Assurance (A&A) is committed to building trust and confidence in corporate Reporting ecosystems—upholding integrity, independence and transparency across 180,000+ engagements worldwide over the past year. A&A has made significant progress in transforming how we deliver our services to further enhance audit quality through our innovative platforms, Deloitte Omnia and Deloitte Levvia, including developing additional Gen AI-enabled capabilities and solutions. As entities embrace the need to communicate beyond traditional financial Reporting, Deloitte continues to provide assurance in emerging areas across accounting, controls and corporate Reporting, increasing transparency with stakeholders. Audit & Assurance revenue grew 4.1% in local currency. Consulting: Deloitte Consulting continued to invest in advanced technologies and industry insights, enabling practitioners to create value for many of the world’s most important public and private organisations. Drawing on the transformative power of GenAI and the breadth of our multi-disciplinary capabilities, we brought innovative ideas and tailored solutions, helping clients identify and address their most complex business challenges and navigate the future. We launched Deloitte Ascend TM , a leading-edge digital delivery platform, to provide our talent and clients with best-in-class digital resources and real-time Data. Deloitte was ranked the number one consulting service provider worldwide by revenue, for the seventh consecutive year, in the Gartner Market Share report. Consulting revenue grew 1.9% in local currency.
+
+Deloitte Consulting continued to invest in advanced technologies and industry insights, enabling practitioners to create value for many of the world’s most important public and private organisations. Drawing on the transformative power of GenAI and the breadth of our multi-disciplinary capabilities, we brought innovative ideas and tailored solutions, helping clients identify and address their most complex business challenges and navigate the future. We launched Deloitte Ascend , a leading-edge digital delivery platform, to provide our talent and clients with best-in-class digital resources and real-time Data. Deloitte was ranked the number one consulting service provider worldwide by revenue, for the seventh consecutive year, in the Gartner Market Share report. Consulting revenue grew 1.9% in local currency. Financial Advisory: Deloitte Financial Advisory practitioners helped create and preserve value for over 20,000 clients, acting as trusted C-Suite and board advisors in a complex and constantly changing environment. Our end-to-end M&A practices advised companies on growth strategies, driving transformation and developing new and deeper capabilities in Sustainability and AI. Our Forensic and Discovery specialists worked with public and private sector organisations to help them address global financial crime, navigate fraud, waste and abuse and manage large scale litigations and regulatory responses with proprietary AI solutions. Our Infrastructure and Economic Advisory practices provided insights and impartial economic analysis and research; quantified economic and social impacts of net zero targets and iconic global sporting events; supported decisions to deliver social and economic objectives; and developed the first-of-its-kind clean hydrogen energy model, which will be instrumental as countries continue to transition energy sources. Financial Advisory revenue declined 3.8% in local currency.
+
+Deloitte Financial Advisory practitioners helped create and preserve value for over 20,000 clients, acting as trusted C-Suite and board advisors in a complex and constantly changing environment. Our end-to-end M&A practices advised companies on growth strategies, driving transformation and developing new and deeper capabilities in Sustainability and AI. Our Forensic and Discovery specialists worked with public and private sector organisations to help them address global financial crime, navigate fraud, waste and abuse and manage large scale litigations and regulatory responses with proprietary AI solutions. Our Infrastructure and Economic Advisory practices provided insights and impartial economic analysis and research; quantified economic and social impacts of net zero targets and iconic global sporting events; supported decisions to deliver social and economic objectives; and developed the first-of-its-kind clean hydrogen energy model, which will be instrumental as countries continue to transition energy sources. Financial Advisory revenue declined 3.8% in local currency. Risk Advisory: Combining our expertise in risk consulting with the latest technologies and tailored strategies in disciplines such as cyber, Sustainability, regulation, compliance and enterprise controls, Deloitte practitioners enabled organisations to be resilient amidst crises and market complexities. Through our updated global cyber strategy, Deloitte has formed strategic relationships with top technology providers, including the introduction of ConvergeSECURITY in collaboration with AWS; and the introduction of the CyberSphere offering with NVIDIA Morpheus, all aimed at delivering enhanced value to Deloitte clients. We continued to grow our Financial Crime Operate capabilities, helping clients solve complex challenges in areas such as financial and insurance related fraud. As organisations increase technology adoption, Deloitte helped clients re-imagine the evolution of enterprise controls and effectively respond to a quickly changing environment. Deloitte ranked no. 1 in the Gartner Market Share Analysis: Security Services, Worldwide, 2023. Risk Advisory revenue grew 3.2% in local currency.
+
+
+
+Combining our expertise in risk consulting with the latest technologies and tailored strategies in disciplines such as cyber, Sustainability, regulation, compliance and enterprise controls, Deloitte practitioners enabled organisations to be resilient amidst crises and market complexities. Through our updated global cyber strategy, Deloitte has formed strategic relationships with top technology providers, including the introduction of ConvergeSECURITY in collaboration with AWS; and the introduction of the CyberSphere offering with NVIDIA Morpheus, all aimed at delivering enhanced value to Deloitte clients. We continued to grow our Financial Crime Operate capabilities, helping clients solve complex challenges in areas such as financial and insurance related fraud. As organisations increase technology adoption, Deloitte helped clients re-imagine the evolution of enterprise controls and effectively respond to a quickly changing environment. Deloitte ranked no. 1 in the Gartner Market Share Analysis: Security Services, Worldwide, 2023. Risk Advisory revenue grew 3.2% in local currency.
+
+Tax & Legal: The rapid emergence of GenAI and the implementation of the OECD’s two-pillar approach to tax challenges catapulted tax up the corporate board agenda and Deloitte’s services and technology tools are helping clients with impact assessment and response, compliance and Reporting, as well as automating processes, expediting response times and enhancing accuracy. Through our comprehensive Operate services, including implementation and outsourcing, we are helping clients meet their compliance obligations and improve operational efficiency. We are continuing to innovate with our Intela Tax Technology platform, which is an integrated tech ecosystem for tax work planning, management, Data collection, analysis and transformation. Deloitte Legal practitioners continue to guide businesses in integrating legal considerations into core business operations—enhancing the accuracy and speed of processes, realising efficiencies, mitigating legal risk and uncovering new insights using advanced analytics. Tax & Legal revenue grew 8.7% in local currency.
+
+Leading with purpose, making an impact that matters across our global society
+
+In the face of pressing societal challenges—from education and health equity to diversity and inclusion at work—Deloitte is working to advance progress across our global society. Through the services Deloitte people provide, our investments and our portfolio of initiatives focused on creating educational and skills-building opportunities, we are helping to create a more equitable future.
+
+
+
+Making progress on our climate commitments: Addressing climate risk is crucial to the success of our business, our clients and society as a whole. We are committed to reducing our Greenhouse gas (GHG) emissions and supporting our clients in doing the same. In FY2024 we focused on developing our long-term, science-based, net-zero targets and climate transition plan. Our emissions reduction targets call for a fundamental transformation within our business operations. That’s why we are implementing policies and programmes to accelerate decarbonisation, particularly in our highest emitting areas — travel, technology and Real Estate. Recognising that the majority of our emissions originate from our supply chain, we are collaborating closely with our suppliers to set science-based targets, implement emissions reductions and enhance product-level emissions Reporting.
+
+Addressing climate risk is crucial to the success of our business, our clients and society as a whole. We are committed to reducing our Greenhouse gas (GHG) emissions and supporting our clients in doing the same. In FY2024 we focused on developing our long-term, science-based, net-zero targets and climate transition plan. Our emissions reduction targets call for a fundamental transformation within our business operations. That’s why we are implementing policies and programmes to accelerate decarbonisation, particularly in our highest emitting areas — travel, technology and Real Estate. Recognising that the majority of our emissions originate from our supply chain, we are collaborating closely with our suppliers to set science-based targets, implement emissions reductions and enhance product-level emissions Reporting. Affecting 100 million futures: Our WorldClass ambition is to positively impact 100 million futures by 2030 through programmes and collaborations with leading educational organisations, non-profits, clients and innovators. With Deloitte donating funds and our people volunteering their time and abilities, our efforts have provided support to millions of students, teachers and education leaders worldwide. We have affected 81 million individuals since 2017, including 24 million during FY2024. For example, Deloitte India has been supporting Mantra Social Services to bolster the skills of state education leaders and teachers across the country, affecting over two million students this year. See stories from young people from around the world, supported by our programmes.
+
+
+
+Our WorldClass ambition is to positively impact 100 million futures by 2030 through programmes and collaborations with leading educational organisations, non-profits, clients and innovators. With Deloitte donating funds and our people volunteering their time and abilities, our efforts have provided support to millions of students, teachers and education leaders worldwide. We have affected 81 million individuals since 2017, including 24 million during FY2024. For example, Deloitte India has been supporting Mantra Social Services to bolster the skills of state education leaders and teachers across the country, affecting over two million students this year. See stories from young people from around the world, supported by our programmes.
+
+Enabling a better world through sport with the IOC and IPC: During the past year, we furthered our “partnership with purpose” with the IOC and the International Paralympic Committee (IPC) by applying Deloitte’s deep management and business consulting acumen to help the IOC realise the possibilities of its Olympic Agenda 2020+5 as well as support initiatives related to Sustainability and athlete career transition and well-being. In August 2024, Deloitte and the IOC announced an expansion of their Worldwide Olympic Partnership.
+
+During the past year, we furthered our “partnership with purpose” with the IOC and the International Paralympic Committee (IPC) by applying Deloitte’s deep management and business consulting acumen to help the IOC realise the possibilities of its Olympic Agenda 2020+5 as well as support initiatives related to Sustainability and athlete career transition and well-being. In August 2024, Deloitte and the IOC announced an expansion of their Worldwide Olympic Partnership. Advancing health equity around the world: The Deloitte Health Equity Institutes (DHEIs) bring business, government and community leaders together to help advance health equity. Each of the DHEIs drives an array of cross-sector collaborations, philanthropic investments and research activities focused on the unique health challenges in their respective regions. For instance, in Spanish Latin America (S-LATAM), the S-LATAM DHEI is engaged in collaborative efforts to help improve access to timely diagnosis and treatment of breast and cervical cancer in Peru and Mexico. And the Europe DHEI published a landmark report, in collaboration with Mind and Place2Be, on the cost of mental health as well as the impact that children’s mental health has on parents and productivity.
+
+Supporting our people
+
+Deloitte is focused on supporting the professional and personal growth of our 460,000 people around the world—from the meaningful and challenging work we provide, to the world-class learning and development we offer, to our inclusive culture where all our people can thrive throughout their career journeys.
+
+
+
+Developing lifelong learners: In FY2024, our Learning & Development direct investment totaled more than $647 million globally. We develop our people throughout their careers, with a focus on accelerating agility and Leadership skills and strengthening capabilities around critical challenges facing Deloitte clients and our global society. We also deliver tech-focused reskilling in response to the rapid pace of innovation. This includes hot skills training around AI, cloud and cyber, as well as “hire to train” programmes, which help enable Deloitte to diversify our recruiting pipeline and where future Deloitte people have the opportunity to gain the credentials and on-the-job experience they need to help them to succeed in future roles. In FY2024, we delivered over 21 million formal training hours for our people. Our deep learning and development offerings include programmes at Deloitte University (DU), as well as virtual and on-demand learning. Over the past year, we continued to expand DU’s global footprint with the opening of DU Europe, Middle East and Africa (EMEA), a leading-edge facility located just outside Paris, France.
+
+
+
+In FY2024, our Learning & Development direct investment totaled more than $647 million globally. We develop our people throughout their careers, with a focus on accelerating agility and Leadership skills and strengthening capabilities around critical challenges facing Deloitte clients and our global society. We also deliver tech-focused reskilling in response to the rapid pace of innovation. This includes hot skills training around AI, cloud and cyber, as well as “hire to train” programmes, which help enable Deloitte to diversify our recruiting pipeline and where future Deloitte people have the opportunity to gain the credentials and on-the-job experience they need to help them to succeed in future roles. In FY2024, we delivered over 21 million formal training hours for our people. Our deep learning and development offerings include programmes at Deloitte University (DU), as well as virtual and on-demand learning. Over the past year, we continued to expand DU’s global footprint with the opening of DU Europe, Middle East and Africa (EMEA), a leading-edge facility located just outside Paris, France.
+
+Fostering an inclusive culture and diverse workforce: Deloitte’s global diversity, equity and inclusion (DEI) strategy is founded on six core pillars—disability inclusion; LGBT+ inclusion; mental health; neurodiversity; race, ethnicity and indigenous communities; and women’s equity—underpinned by a focus on a respectful and inclusive culture. Deloitte firms focus their DEI efforts around these pillars, with any specific DEI priorities relevant to their local communities. We strive to bring our purpose to life for our people by helping enable them maximise the contributions they make to Deloitte clients and the communities in which they live and we have been recognised for bringing these commitments to life around the world. Deloitte was named among the World’s Best Workplaces in 2023 by Great Place To Work®, ranking No. 6, named an Ambassador for the 2023 Workplace Pride Impact Award and named a 2023 Global Equality Champion for Open For Business, among many other honours received around the world.
+
+
+
+
+
+Note: Deloitte’s 2024 Global Impact Report will be released later this year.
+
+Gartner, Magic Quadrant for Finance and Accounting Business Process Outsourcing, May 2024
+
+Gartner, Vendor Rating: Deloitte, May 2024
+
+Gartner, Market Share Analysis: Consulting Services, Worldwide, 2023, June 2024
+
+Gartner, Market Share Analysis: Security Services, Worldwide, 2023, July 2024
+
+GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and MAGIC QUADRANT is a registered trademark of Gartner, Inc. and/or its affiliates and are used herein with permission. All rights reserved.
+
+Gartner does not endorse any vendor, product or service depicted in its research publications and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organisation and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+
+## Article from https://www.statista.com/statistics/188987/revenue-of-deloitte-since-2010-by-function/
+Expert resources to inform and inspire.
+
+See why Statista is the trusted choice for reliable data and insights. We provide one platform to simplify research and support your strategic decisions. Learn more
+
+Statista R identifies and awards industry leaders, top providers, and exceptional brands through exclusive rankings and top lists in collaboration with renowned media brands worldwide. For more details, visit our website.
+
+Transforming data into content marketing and design:
+
+Strategy and business building for the data-driven economy
+
+Statista+ offers additional, data-driven services, tailored to your specific needs. As your partner for data-driven success, we combine expertise in research, strategy, and marketing communications.
+
+Directly accessible data for 170 industries from 150+ countries and over 1 million facts:
+
+Detailed information for 39,000+ online stores and marketplaces
+
+Insights on consumer attitudes and behavior worldwide
+
+Market forecast and expert KPIs for 1000+ markets in 190+ countries & territories
+
+All key figures about countries and regions
+
+Detailed information about political and social topics
+
+Consumer and brand insights and preferences in various industries
+
+Key figures and rankings about companies and products
+
+Industry and market insights and forecasts
+
+Overview and forecasts on trending topics
+
+Advertisement
+
+Advertisement
+
+Log in or register to access precise data. Get access now
+
+Please create an employee account to be able to mark statistics as favorites. Then you can access your favorite statistics via the star in the header. Register now
+
+Currently, you are using a shared account. To use individual functions (e.g., mark statistics as favourites, set statistic alerts) please log in with your personal account. If you are an admin, please authenticate by logging in again. Login
+
+To download this statistic in XLS format you need a Statista Account
+
+To download this statistic in PNG format you need a Statista Account
+
+To download this statistic in PDF format you need a Statista Account
+
+To download this statistic in PPT format you need a Statista Account
+
+As a Premium user you get access to the detailed source references and background information about this statistic.
+
+As a Premium user you get access to background information and details about the release of this statistic.
+
+As soon as this statistic is updated, you will immediately be notified via e-mail.
+
+… to incorporate the statistic into your presentation at any time.
+
+You need at least a Starter Account to use this feature.
+
+Want to see numerical insights? Login or upgrade to unlock hidden values.
+
+Access all statistics starting from $2,388 USD yearly *
+
+* For commercial use only Basic Account For single users $0 USD Always free Access limited to Free Statistics. Premium Statistics are not included. Free Statistics Based on your interests Starter Account For single users $199 USD per month, billed annually 1 Buy now Free Statistics
+
+Premium Statistics The statistic on this page is a Premium Statistic and is included in this account. Professional Account For teams of up to 5 people $1,299 USD per month, billed annually 1 Buy now Free + Premium Statistics
+
+Reports
+
+Market Insights Compare accounts
+
+Access all statistics starting from $2,388 USD yearly * * For commercial use only Basic Account For single users $0 USD Always free Access limited to Free Statistics. Premium Statistics are not included. Free Statistics Based on your interests Starter Account For single users $199 USD per month, billed annually 1 Buy now Free Statistics
+
+Premium Statistics The statistic on this page is a Premium Statistic and is included in this account. Professional Account For teams of up to 5 people $1,299 USD per month, billed annually 1 Buy now Free + Premium Statistics
+
+Reports
+
+Market Insights Compare accounts Learn more about how Statista can support your business. Request webinar
+
+Deloitte. (November 7, 2024). Revenue of Deloitte worldwide from 2006 to 2024, by service line (in billion U.S. dollars) [Graph]. In Statista . Retrieved June 30, 2025, from https://www.statista.com/statistics/188987/revenue-of-deloitte-since-2010-by-function/
+
+Deloitte. "Revenue of Deloitte worldwide from 2006 to 2024, by service line (in billion U.S. dollars)." Chart. November 7, 2024. Statista. Accessed June 30, 2025. https://www.statista.com/statistics/188987/revenue-of-deloitte-since-2010-by-function/
+
+Deloitte. (2024). Revenue of Deloitte worldwide from 2006 to 2024, by service line (in billion U.S. dollars) . Statista . Statista Inc.. Accessed: June 30, 2025. https://www.statista.com/statistics/188987/revenue-of-deloitte-since-2010-by-function/
+
+Deloitte. "Revenue of Deloitte Worldwide from 2006 to 2024, by Service Line (in Billion U.S. Dollars)." Statista , Statista Inc., 7 Nov 2024, https://www.statista.com/statistics/188987/revenue-of-deloitte-since-2010-by-function/
+
+Deloitte, Revenue of Deloitte worldwide from 2006 to 2024, by service line (in billion U.S. dollars) Statista, https://www.statista.com/statistics/188987/revenue-of-deloitte-since-2010-by-function/ (last visited June 30, 2025)
+
+Revenue of Deloitte worldwide from 2006 to 2024, by service line (in billion U.S. dollars) [Graph], Deloitte, November 7, 2024. [Online]. Available: https://www.statista.com/statistics/188987/revenue-of-deloitte-since-2010-by-function/
+
+## Article from https://en.wikipedia.org/wiki/Deloitte
+Multinational professional services network
+
+Not to be confused with Dolittle
+
+For the dance music group, see Deee-Lite
+
+Deloitte is a multinational professional services network based in London, United Kingdom. It is the largest professional services network in the world by revenue and number of employees, and is one of the Big Four accounting firms, along with EY, KPMG, and PwC.[5][6] The Deloitte network is composed of member firms of Deloitte Touche Tohmatsu Limited ( də-LOYT TOOSH toh-MAHT-soo) a private company limited by guarantee incorporated in England and Wales.[7]
+
+The firm was founded by accountant William Welch Deloitte in London, England in 1845 and expanded into the United States in 1890.[8] It merged with Haskins & Sells to form Deloitte Haskins & Sells in 1972 and with Touche Ross in the US to form Deloitte & Touche in 1989. In 1993, the international firm was renamed Deloitte Touche Tohmatsu, later abbreviated to Deloitte.[8] In 2002, Arthur Andersen's practice in the UK as well as several of that firm's practices in Europe and North and South America agreed to merge with Deloitte.[9] Subsequent acquisitions have included Monitor Group, a large strategy consulting business, in January 2013.[10] The international firm is a UK private company, limited by guarantee, supported by a network of independent legal entities.[11]
+
+Deloitte provides audit, consulting, financial advisory, risk advisory, tax, and legal services with approximately 457,000 employees globally, and operates in over 150 countries.[4] In FY 2023, the network earned revenues of US$64.9 billion in aggregate.[4] The firm has sponsored a number of activities and events including the 2012 Summer Olympics.[12]
+
+There have been a number of controversies surrounding the firm, including Deloitte's involvement in a "potentially misleading" report on illicit tobacco trading in Australia.[13] The company suffered a major cyberattack in September 2017, causing a breach in client confidentiality and publicizing a significant amount of employee information.[14] Deloitte has also been subject to litigation regarding several of its audits.
+
+History [ edit ]
+
+Early history [ edit ]
+
+In 1845, William Welch Deloitte opened an office in Basinghall Street in London, England.[15] Deloitte was the first person to be appointed an independent auditor of a public company, namely the Great Western Railway.[8] He went on to open an office in New York in 1880.[8] The firm was based at No. 4 Lothbury in London from 1855 to 1905,[16] when it moved to No. 54 London Wall Buildings.[17]
+
+In 1890, Deloitte opened a branch office on Wall Street headed by Edward Adams and P.D. Griffiths as branch managers. This was Deloitte's first overseas venture. Other branches were soon opened in Chicago and Buenos Aires. In 1898 P.D. Griffiths returned from New York and became a partner in the London office.[18]
+
+In 1896, Charles Waldo Haskins and Elijah Watt Sells formed Haskins & Sells in New York.[8] It was later described as "the first major auditing firm to be established in the country by American rather than British accountants".[19]
+
+In 1898, George Touche established an office in London and then, in 1900, joined John Ballantine Niven in establishing the firm of Touche Niven in the Johnston Building at 30 Broad Street in New York.[8]
+
+On 1 March 1933, Colonel Arthur Hazelton Carter, President of the New York State Society of Certified Public Accountants and managing partner of Haskins & Sells, testified before the U.S. Senate Committee on Banking and Currency. Carter helped convince Congress that independent audits should be mandatory for public companies.[8]
+
+William Welch Deloitte, founder of Deloitte
+
+In 1947, Detroit accountant George Bailey, then president of the American Institute of Certified Public Accountants, launched his own organization. The new entity enjoyed such a positive start that in less than a year, the partners merged with Touche Niven and A. R. Smart to form Touche, Niven, Bailey & Smart.[8] Headed by Bailey, the organization grew rapidly, in part by creating a dedicated management consulting function. It also forged closer links with organizations established by the co-founder of Touche Niven, George Touche: the Canadian organization Ross and the British organization George A. Touche.[8] In 1960, the firm was renamed Touche, Ross, Bailey & Smart, becoming Touche Ross in 1969.[8] In 1968 Nobuzo Tohmatsu formed Tohmatsu Aoki & Co, a firm based in Japan that was to become part of the Touche Ross network in 1975.[8] In 1972 Robert Trueblood, Chairman of Touche Ross, led the committee responsible for recommending the establishment of the Financial Accounting Standards Board.[8]
+
+Meanwhile, the head office of Deloitte's firm moved to No. 128 Queen Victoria Street in London in September 1964.[17] In 1972, Deloitte's firm (by then known as Deloitte, Plender, Griffiths & Co.) merged with Haskins & Sells to form Deloitte Haskins & Sells.[20]
+
+In 1989, Deloitte Haskins & Sells merged with Touche Ross in the US to form Deloitte & Touche. The merged firm was led jointly by J. Michael Cook and Edward A. Kangas. Led by the UK partnership, a smaller number of Deloitte Haskins & Sells member firms rejected the merger with Touche Ross and shortly thereafter merged with Coopers & Lybrand to form Coopers & Lybrand Deloitte (later to merge with Price Waterhouse to become PwC).[21] Some member firms of Touche Ross also rejected the merger with Deloitte Haskins & Sells and merged with other firms.[21] In the UK, Touche Ross merged with Spicer & Oppenheim in 1990.[22]
+
+Recent history [ edit ]
+
+At the time of the US-led mergers to form Deloitte & Touche, the name of the firm was a problem, because there was no worldwide exclusive access to the names "Deloitte" or "Touche Ross" – key member firms such as Deloitte in the UK and Touche Ross in Australia had not joined the merger. The name DRT International was therefore chosen, referring to Deloitte, Ross and Tohmatsu. In 1993, the international firm was renamed Deloitte Touche Tohmatsu.[8]
+
+Deloitte office building in downtown Chicago
+
+In 1995, the partners of Deloitte & Touche decided to create Deloitte & Touche Consulting Group (now known as Deloitte Consulting).[23]
+
+In 2000, Deloitte acquired Eclipse to add internet design to its consulting capabilities. Eclipse was later separated into Deloitte Online and Deloitte Digital.[24]
+
+In 2002, Arthur Andersen's UK practice, the firm's largest practice outside the US, agreed to merge with Deloitte's UK practice. Andersen's practices in Spain, the Netherlands, Portugal, Belgium, Mexico, Brazil and Canada also agreed to merge with Deloitte.[9][25] The spinoff of Deloitte France's consulting division led to the creation of Ineum Consulting.[26]
+
+In 2005, Deloitte acquired Beijing Pan-China CPA to become the largest accountancy firm in China. Just prior to this acquisition Deloitte China had about 3,200 employees. This acquisition was part of a five-year plan to invest $150 million in China. Deloitte has had a presence in China since 1917.[27]
+
+In 2007, Deloitte began hiring former employees of the Central Intelligence Agency (CIA) for their competitive intelligence unit known as Deloitte Intelligence.[28]
+
+In 2009, Deloitte purchased the North American public service practice of BearingPoint (formerly KPMG Consulting) for $350 million after it filed for bankruptcy protection.[29]
+
+Deloitte LLP took over the UK property consultants Drivers Jonas in January 2010. As of 2013, this business unit was known as Deloitte Real Estate.[30]
+
+In 2011, Deloitte acquired DOMANI Sustainability Consulting and ClearCarbon Consulting in order to expand its sustainability service offerings.[31]
+
+In January 2012, Deloitte announced the acquisition of Übermind, a mobile advertising agency.[32] The acquisition marked Deloitte's first entrance into the mobile application field.[33]
+
+In November 2012, Deloitte acquired Recombinant Data Corporation, a company specializing in data warehousing and clinical intelligence software, and launched Recombinant by Deloitte.[34] In February 2013 Recombinant by Deloitte merged with an internal informatics unit (Deloitte Health Informatics) and launched ConvergeHEALTH by Deloitte.[35]
+
+On 11 January 2013, Deloitte purchased substantially all of the business of Monitor Group,[10] the strategy consulting firm founded by Harvard Business School professor Michael Porter, after Monitor filed for bankruptcy protection.[36]
+
+In 2014, the company introduced Rubix, a blockchain consultancy providing advisory services for clients in different business sectors, including government. In 2016 the company created its first blockchain lab in Dublin. A second hub was launched in New York in January 2017. In 2016, Deloitte Canada set-up a Bitcoin automatic teller machine and equipped a restaurant in its office complex to accept bitcoin as payment. Deloitte CIS partnered with Waves Platform to offering services related to initial coin offerings. Deloitte became a member of the Ethereum Enterprise Alliance and the Hyperledger Project sponsored by the Linux Foundation in May 2017.[37]
+
+In 2016, Deloitte acquired advertising agency Heat of San Francisco, best known for its work Madden NFL from EA Sports and the Hotwire travel website. Heat was the 11th digital marketing agency purchased by Deloitte Digital since its founding in 2012. As of 2016, Deloitte Digital had 7,000 employees. It billed $2.1 billion in 2015, making it one of world's largest digital agencies.[38][39]
+
+In September 2016, Apple Inc. announced a partnership with Deloitte aimed at boosting sales of its phones and other mobile devices to businesses. As part of the partnership, the two companies will launch a service called Enterprise Next, in which more than 5,000 Deloitte consultants will advise clients on how to make better use of Apple products and services.[40][41][42]
+
+In October 2016, Deloitte announced that they were creating Deloitte North West Europe. The Belgian, Danish, Dutch, Finnish, Icelandic, Norwegian, and Swedish member firms will combine with the UK and Swiss member firms to create Deloitte North West Europe. Deloitte, over the next three years, would invest €200m to enhance its services to its global, national and private market clients and to create development opportunities. The firm came into effect on 1 June 2017 and it is estimated to have 28,000 partners and people generating over €5bn in annual revenue. Deloitte North West Europe accounts for approximately 20% of all revenue within their Global Network.[43]
+
+In March 2022, Deloitte announced that, as a result of the Russo-Ukrainian War, the firm would no longer carry out business in Russia or Belarus, and would separate its practices within these countries from its global network of firms.[44][45]
+
+In March 2022, Deloitte acquired Etain, a data and digital transformation specialist company, based in Northern Ireland.[46]
+
+The Wall Street Journal reported in June 2022 that the firm might choose to divide itself into two new companies, one accounting firm and one advisory firm.[47] The Wall Street Journal reported this potential change several weeks after reporting that Ernst & Young was considering a similar split.[47][48]
+
+In November 2023, Deloitte entered into a supply contract with Henchmann, a provider of contract drafting and negotiation software that scans and extracts key data points from legal documents.[49]
+
+In 2024, Deloitte, Nvidia, Microsoft and Amazon Web Services provided a combined $40 million in funding to multiple cancer institutes to support the establishment of the Cancer AI Alliance.[50]
+
+In May 2025, the company informed its UK consulting division it planned to reduce pay rises and cut bonuses by 20 per cent following poor financial performance.[51]
+
+Name and branding [ edit ]
+
+Deloitte logo (short form)
+
+In 1989, Deloitte, Haskins & Sells merged in most countries with Touche Ross, forming Deloitte & Touche. However, in the United Kingdom, the local firm of Deloitte, Haskins & Sells merged instead with Coopers & Lybrand (now part of PwC).[52]
+
+While the full name of the UK private company is Deloitte Touche Tohmatsu Limited,[1] in 1989, it initially branded itself as DTT International. In 2003, the rebranding campaign was commissioned by William G. Parrett, the then-CEO of DTT, and led by Jerry Leamon, the global Clients and Markets leader.[53]
+
+According to the company website, Deloitte now refers to the brand under which independent firms throughout the world collaborate to provide audit, consulting, financial advisory, risk management, and tax services to selected clients.[54]
+
+In 2008, Deloitte adopted its new "Always One Step Ahead" (AOSA) brand positioning platform to support the existing Deloitte vision: "To be the Standard of Excellence". AOSA represents the global organization's value proposition and is never used as a tagline. The recent launch of the Green Dot ad campaign also aligns with Deloitte's brand strategy and positioning framework.[55]
+
+In June 2016, Deloitte changed its branding and adopted a new logo, with Deloitte written in black color instead of the earlier blue.[56]
+
+In India, Deloitte operates under several brand names, including A.F.Ferguson &Co., A.F.Ferguson Associates, S.B.Billimoria, C.C.Choksi & Co., P.C.Hansotia, Fraser & Ross and Deloitte Haskins & Sells (India).[57]
+
+Legal structure [ edit ]
+
+For many years, the organization and its network of member firms were legally organized as a Swiss Verein (the equivalent of an unincorporated association). As of 31 July 2010, members of the Verein became part of Deloitte Touche Tohmatsu Limited (DTTL), a UK private company limited by guarantee without share capital.[1] Each member firm in its global network remains a separate and independent legal entity, subject to the laws and professional regulations of the particular country or countries in which it operates.[11]
+
+This structure is similar to other professional services networks which seek to limit vicarious liability for acts of other members. As separate and legal entities, DTTL and its member firms cannot obligate each other. Professional services continue to be provided by member firms only and not DTTL. With this structure, the members should not be liable for the negligence of other independent members. This structure also allows them to be members of the IFAC Forum of Firms.[58]
+
+In 2019, the U.K. partners in the firm received average pay of £882,000.[59] In 2023, the average income of Deloitte partners in the U.K. topped £1,000,000 for the third year in a row.[60]
+
+Services [ edit ]
+
+Deloitte office building in Milan
+
+Deloitte member firms offer services in the following functions, with country-specific variations on their legal implementation (i.e., all operating within a single company or through separate legal entities operating as subsidiaries of an umbrella legal entity for the country).[61]
+
+Audit [ edit ]
+
+Audit provides the organization's traditional accounting and audit services, as well as internal auditing, IT control assurance and Media & Advertising Assurance.[62]
+
+Investors in Guangdong Kelon Electrical Holdings Company Limited have claimed that there was a failure to alert them to the company's poor financial position.[63] Deloitte claims it did a good job on the project. Deloitte's global CEO defended the firm's work on the Kelon matter. The firm was the auditor for thirty months from 2002 to 2004. It qualified its opinion in 2004 as to company sales, returns, and allowances. The firm resigned from the Kelon account after completing the 2004 audit. Deloitte said it resigned from the account because management at the client was not committed to best practices in finance.[64]
+
+Consulting [ edit ]
+
+Consulting assists clients by providing services in the offering areas of strategy, analytics and M&A, customer and marketing, core business operations, human capital, and enterprise technology and performance. Consulting is Deloitte's largest business, bringing over 40% of total revenues in 2021.[65]
+
+In An American Sickness (2017), Dr. Elisabeth Rosenthal attributed to Deloitte a key role in counseling the adoption of "strategic billing" as a way of increasing revenues from hospital business. She dates this development from 2005, when Deloitte hired Tommy Thompson, former secretary of health and human services, as chairman of its global healthcare practice.[66] In 2011, Deloitte was ranked No. 1 by revenue in all areas of healthcare consulting—life sciences, payer, provider, and government health.[67]
+
+The firm implemented the SAP HR system for the Los Angeles Unified School District (LAUSD) for $95 million and because of faults in the system, some teachers were underpaid, overpaid, or not paid at all.[68][69] As of 31 December 2007, LAUSD had incurred a total of $140 million in payments to Deloitte to get the system working properly.[70] In 2008, there was some evidence that the payroll issues had started to stabilize with errors below 1% according to LAUSD's chief operating officer.[71]
+
+The firm worked on a statewide case management system for the California Judicial Council which originally had a budget of around $260 million. Almost $500 million had been spent and costs were at one time projected to potentially run as high as $2 billion. No single court became fully operational.[72] California's Judicial Council terminated the project in 2012 citing actual deployment costs associated with the project and California's budget concerns.[73]
+
+Financial advisory [ edit ]
+
+Financial advisory provides corporate finance services to clients, including dispute, personal and commercial bankruptcy, forensics, e-discovery, document review, advisory, mergers & acquisitions, capital projects consulting and valuation services.[74]
+
+Tax and legal [ edit ]
+
+Tax and legal helps clients increase their net asset value, undertake the transfer pricing and international tax activities of multinational companies, minimize their tax liabilities, implement tax computer systems, and provides advisory of tax implications of various business decisions.[75]
+
+In November 2013, the international development charity ActionAid accused Deloitte of advising large businesses on how they could use Mauritius to avoid potentially hundreds of millions of dollars of tax in some of the poorest countries in Africa. Deloitte responded by saying that, in the absence of the double-taxation treaties, they advise their clients to avail themselves of arrangements that could result in less taxes being paid to the countries in question. Deloitte also said it was wrong to say it is tax avoidance to make use of provisions in double tax treaties and that without such treaties investment might be reduced.[76]
+
+GovLab [ edit ]
+
+GovLab is the internal think tank of Deloitte Consulting LLP's Federal Government consulting practice, focused on innovation and government reform. Created in 2010, GovLab is based at New York University in New York, New York,[77] and typically undertakes eight or nine research topics per year, focusing on how future trends, technologies, and business models will affect government.[78]
+
+Offices [ edit ]
+
+Deloitte operates across the world in more than 700 locations and over 150 countries, with nearly 457,000 employees as of 2023.[79][80][81]
+
+Operations in India [ edit ]
+
+In the late 1990s, Deloitte commenced operations in India, at the same time as another large auditing firm KPMG. In India, ICAI regulations do not permit foreign firms to carry out audits in India.[82] Hence Deloitte carries out audits in India under the name of C.C.Chokshi & Co., an existing auditing firm that it arranged an agreement with in 1998.[83] In 1992, after India was forced to liberalise under one of the conditions of the World Bank and IMF sponsored bail out, Deloitte was granted a license to operate in India. In 2004, A. F. Ferguson & Co., which has been in India for 110 years, joined Deloitte, following CC Chokshi & Company, Fraser & Ross, PC Hansotia & Company and SB Billimoria & Company.[84]
+
+In India, Deloitte has two entities: Deloitte India and Deloitte US-India (USI), which is a region within the Deloitte US organization. Deloitte India caters to clients within India, while Deloitte USI is an entity of Deloitte US that is geographically located in India and caters to clients of the US member firm.[85]
+
+Awards and recognition [ edit ]
+
+Deloitte, along with KPMG, PwC and PA Consulting Group were recognized among the UK's best companies to work for in 2017.[86] That same year, Deloitte was ranked as one of the 10 best places to work for paternity leave by Fatherly, an online resource for parenting news.[87]
+
+Deloitte was named the #1 accounting firm for the 10th year in a row by Inside Public Accounting in August 2018.[88] Deloitte's tax services have been globally recognized by ITR, with the firm notably winning three consecutive best transfer pricing awards in the Americas.[89] Also in 2018, the research firm Gartner stated that Deloitte has consistently ranked number one globally in "Security Consulting Services" based on revenue.[90]
+
+In 2019, Fortune magazine ranked Deloitte as one of the 100 Best Companies to Work For[91] and Bloomberg Business has named Deloitte as the best place to launch a career.[92]
+
+In 2019, 2020, and 2021, Gartner stated that Deloitte was the No. 1 consulting service provider worldwide by revenue.[93][94][95]
+
+Litigation and regulatory action - auditing [ edit ]
+
+1MDB scandal [ edit ]
+
+During 2021, Deloitte's Malaysia affiliate agreed to pay the Malaysia government $80 million to resolve all claims related to its auditing of accounts of scandal-linked state fund 1MDB and its unit SRC International from 2011 to 2014. Malaysian and U.S. authorities say at least $4.5 billion was stolen from 1MDB between 2009 and 2014 by high-level officials of the fund and their associates.[96]
+
+Adelphia Communications [ edit ]
+
+The Securities and Exchange Commission announced on 26 April 2005 that Deloitte had agreed to pay $50 million to settle charges relating to Adelphia's 2000 financial statements.[97][98] The settlement was later reported to be as high as $210m or $167.5m.[99][100]
+
+Autonomy [ edit ]
+
+Following Autonomy's 2011 sale to Hewlett-Packard, the British software company was accused of accounting improprieties that contributed to an $8.8 billion write-down of Autonomy's value. In May 2018, the UK-Based Financial Reporting Council (FRC) launched disciplinary action against Deloitte, Autonomy's auditor at the time of the sale. Deloitte Partners who led the audit were accused of failing to correct false and misleading information filed with the FRRP, and otherwise failing to act with objectivity during the course of the audit. The FRC's action followed legal proceedings in the US that found former Autonomy executive Sushovan Hussain guilty of fraud earlier that month.[101]
+
+During 2020, Deloitte was fined a record £15 million and two of its former partners involved in the audits, Richard Knights and Nigel Mercer, were also fined and sanctioned by the UK accounting watchdog, the FRC.[102]
+
+Banro Corporation audit independence fine [ edit ]
+
+The Public Company Accounting Oversight Board fined Deloitte Canada $350,000 for failing to maintain its independence during three consecutive audits of a Canadian gold-mining company, Banro Corporation.[103]
+
+Bondfield Construction [ edit ]
+
+CPA Ontario has brought disciplinary charges against two Deloitte partners, Felice "Phil" Iorio and Steve Kostich, for professional misconduct related to their work on audits for failed Bondfield Construction. Bondfield filed for creditor protection in April 2019 and former executives are being sued to recover funds siphoned from the company through a fraudulent invoicing scheme.[104]
+
+China Huarong Asset Management Co. [ edit ]
+
+In March 2023, China's Ministry of Finance fined Deloitte 211.9 million yuan ($30.8 million) for illegal auditing deficiencies in the audit of China Huarong Asset Management Co. The Ministry found that Deloitte had failed to maintain professional skepticism during the audit. Huarong was fined 800,000 yuan ($116,227) for its role in the auditing deficiencies.[105][106]
+
+Johnston Press audit [ edit ]
+
+During 2020, the UK accounting regulator, the Financial Reporting Council, fined Deloitte's UK affiliate £362,500 and reprimanded both the firm and an unnamed audit partner over failures in its audit work for Johnston Press.[107]
+
+Livent [ edit ]
+
+In proceedings arising from the insolvency of the former entertainment company Livent, in April 2014 its special receiver obtained judgment against Deloitte for $84,750,000 in the Ontario Superior Court of Justice, in relation to Deloitte's failure to exercise its duty of care with respect to the audit of Livent's financial statements during 1993–1998.[108] The ruling was upheld by the Ontario Court of Appeal in January 2016,[109][110][111] but in December 2017, the Supreme Court of Canada in Deloitte & Touche v Livent Inc (Receiver of) allowed an appeal in part, declaring that liability existed only in respect of Deloitte's negligence in conducting the audit for Livent's 1997 fiscal year, and accordingly reduced the amount of damages awarded to $40,425,000.[112]
+
+Mitie plc [ edit ]
+
+In April 2022, Deloitte's UK affiliate was fined £2 million by the UK accounting regulator, Financial Reporting Council, over 2016 audit of British outsourcing firm, Mitie plc.[113]
+
+Philip Services Corp [ edit ]
+
+Philip Services Corp was a Canadian metals recycling company that collapsed following the revelation of accounting issues and internal fraud. A class action launched on behalf of US investors against Philip's Canadian auditor Deloitte & Touche LLP was settled in 2007 with Deloitte agreeing to pay US$50.5 million.[114]
+
+Serco Geografix Ltd. [ edit ]
+
+On 4 July 2019, the Financial Reporting Council fined Deloitte for its failure to properly audit the accounts of a Serco Group's subsidiary, Serco Geografix, in 2011 and 2012. The United Kingdom's watchdog fined Deloitte with a £4.2 million and additional £300,000 towards the costs of the investigation.[115][116]
+
+Deloitte's audit engagement partner Helen George was also fined £97,500. FRC stated that the two parties have been sanctioned for their failure to act in accordance with the fundamental principle of professional competence and due care.[117]
+
+SIG plc [ edit ]
+
+In December 2022, Deloitte's UK affiliate was fined £0.9 million (approximately US$1.1 million) by the Financial Reporting Council. The fine came as a result of the company failing to obtain and supply enough audit evidence testing, rebate terms and debtor balances in connection with the 2015/16 audit of the British subsidiary of Swiss building materials firm, SIG plc.[118]
+
+Standard Chartered [ edit ]
+
+In August 2012, Deloitte Financial Advisory Services (DFAS) publicly denied that as the official internal auditors for Standard Chartered, it helped the bank cover up money laundering operations related to Iran which were earning the bank significant profits by "intentionally omitting critical information".[119] DFAS paid the state of New York a $10 million settlement, was required not to take on new business for one year from designated New York banks, and was required to implement reforms in order to prevent similar problems in the future. The state regulator stated that there was no evidence DFAS intentionally helped Standard Chartered launder money.[120]
+
+Steinhoff International [ edit ]
+
+In June 2018, Dutch investors' organisation VEB instituted class action legal proceedings against Deloitte's Dutch affiliate on behalf of shareholders who suffered losses as a result of the fraud committed by Steinhoff International. VEB claimed that Deloitte was liable for deficiencies in the audit of Steinhoff.[121]
+
+In October 2020, VEB withdrew its case after the Dutch and South African Deloitte firms agreed to contribute a combined €70 million towards a combined settlement offered by Steinhoff to settle all claims against Steinhoff as a result of the fraud.[121][122] In a statement published by VEB, it was stated that the settlement by Deloitte did not imply an admission of guilt.[123]
+
+Tongaat Hulett [ edit ]
+
+In January 2022, South African sugar producer Tongaat Hulett announced that it would be suing Deloitte for failing to detect irregularities in its financial statements from 2011-2018 that led to the equity of the company being overstated by R12 billion.[124]
+
+In February 2023, Tongaat and Deloitte reached a settlement, in which Deloitte would pay Tongaat R260 million for six years of audited financial statements without admitting liability.[125]
+
+Litigation and regulatory action - consulting and oversight [ edit ]
+
+Canadian Bar Association [ edit ]
+
+In September 2003, Deloitte reported to the Canadian Bar Association (CBA) that motor vehicle accident insurance claims for bodily injury had been declining since 1999 adjusted for inflation. This contradicted the government's and industry's argument that general damages for soft-tissue injury had to be capped at $4,000. Within hours of release, a member of Deloitte was communicating with Insurance Bureau of Canada without the knowledge of CBA (their client) and providing confidential information. The Institute of Chartered Accountants of Alberta found Deloitte guilty of unprofessional conduct and fined the firm $40,000.[126]
+
+Eskom [ edit ]
+
+In October 2019, South African power utility Eskom announced that it was suing Deloitte's South African affiliate, Deloitte Consulting, in order to recover R207 million paid for two consulting contracts that were improperly-awarded in 2016. According to the court affidavit filed in the Johannesburg High Court by Eskom chairperson Jabu Mabuza, in one of the contracts awarded to Deloitte, Deloitte bid R88.8-million while the bids from other consulting firms were R14.6-million and R13.3-million. In the second contract, Deloitte bid R79.1-million, and the competing bids were R16-million and R9.1-million.[127]
+
+In an interview with AmaBhungane, Deloitte Consulting's managing director for Africa, Thiru Pillay, claimed that Eskom was trying to bully Deloitte into a settlement, He further stated that Deloitte had not conceded to being “complicit with irregular procurement” and denied "any undertone of corruption" with regards to the Eskom contracts.[127]
+
+On 21 March 2020, Eskom announced that Deloitte and Eskom had reached an out of court settlement in which Deloitte agreed to pay back R150 million of the R207 million originally sought by Eskom. In a joint statement released by Eskom and Deloitte, the parties agreed that there was no evidence of corruption in the deal, and that there were "technical irregularities" in the procurement process.[128]
+
+In April 2020, Deloitte told AmaBhungane that two directors, Pillay, as well as lead consultant on the Eskom contracts, Shamal Sivasanker, had resigned from the firm effective 31 March 2020.[129]
+
+In November 2021, Eskom announced that Deloitte had been selected as Eskom's new external auditor, after the expiration of its contract with Grant Thornton.[130]
+
+Netherlands regulator fine [ edit ]
+
+During 2016, the Netherlands Authority for the Financial Markets (AFM) imposed an administrative fine of €1.81 million (~$2 million) on Deloitte's Dutch affiliate, Deloitte Accountants B.V. because it failed to comply with its duty of care in inspection audits.[131]
+
+Bandar Malaysia Sdn Bhd [ edit ]
+
+During 2019, the Malaysian regulator Securities Commission Malaysia (SC) reprimanded and imposed penalties of RM2.2 million (~$0.5 million) on Deloitte's Malaysian affiliate relating to the Islamic Finance RM2.4 billion ($0.6 billion) (Sukuk Murabahah Programme.[132]
+
+Rhode Island Benefits system [ edit ]
+
+During 2020, Deloitte's US consulting arm agreed to pay the State of Rhode Island and the US Federal Government $50 million as a settlement relating to its design of a troubled computer system for its state benefits programs.[133]
+
+Quality control failures in Canada [ edit ]
+
+During 2021, the US Public Company Accounting Oversight Board (PCAOB) fined Deloitte's Canadian affiliate $350,000 as a civil penalty for failure to institute reasonable assurance quality controls.[134]
+
+Deloitte Hua Yong [ edit ]
+
+The Securities and Exchange Commission announced on 29 September 2022 that Shanghai-based Deloitte Touche Tohmatsu Certified Public Accountants LLP (Deloitte-China) had agreed to pay $20 million to settle charges relating to failures in complying with requirements for auditing US companies in China and Chinese companies in the US.[135] Deloitte-China, also known as Deloitte Hua Yong, self-reported the deficiencies found in 12 fiscal year 2018 audits.[136] Auditors asked clients to prepare their own paperwork to show that Deloitte-China had completed audits in at least 21 instances, creating the illusion that it followed relevant requirements when there was no evidence of it doing so.[137] For nine clients with operations in China, Deloitte's US office also outsourced its audit work to Deloitte China.[138]
+
+Controversies [ edit ]
+
+Australian tobacco industry [ edit ]
+
+In 2011, Deloitte was commissioned by the tobacco industry to compile a report on illicit tobacco. The Australian Customs and Border Protection Service officials called the report "potentially misleading", and raised concerns about the "reliability and accuracy" of the data.[13] When a second Deloitte report focusing on counterfeit cigarettes was released, Home Affairs Minister Brendan O'Connor described the second report as "baseless and deceptive" and "bogus".[139] Public health officials criticised Deloitte's decision to conduct the research, as it added credibility to the tobacco industry's effort to undermine the Australian Government's plain cigarette packaging legislation.[140][141]
+
+COVID-19 vaccine website and patent infringement [ edit ]
+
+Deloitte was awarded a $44 million no-bid contract by the Centers for Disease Control and Prevention (CDC) in the United States to build a website to manage scheduling, inventory, and reporting for COVID-19 vaccination.[142] However, the website functioned poorly, leading very few states to adopt it for their vaccination management.[143][142]
+
+In August 2020, a patent attorney for Tiffany Tate, the executive director of the Multi-State Partnership for Prevention (MSPP), issued a cease and desist letter accusing Deloitte and the CDC of stealing Tate's intellectual property for a mass vaccination tracker for use in tracking vaccinations for COVID-19. Tate had earlier demonstrated software to the CDC that would help automate key aspects of delivering mass vaccinations. Deloitte was present during that presentation and was identified by the CDC as a consultant. Under the Trump administration, the CDC awarded a no bid contract to Deloitte to build a vaccine administration management system, even though MSPP had offered such a system at a lower price. Later, the CDC awarded a second contract to Deloitte, with both contracts totaling US$43.9 million. Tate's attorney said that Deloitte's system "has the identical structure, mirrors the functionality, and duplicates the same features" as MSPP's system. The attorney also commented that Deloitte tried to hire Ms. Tate to work on the project.[144][145]
+
+E-mail hack [ edit ]
+
+In September 2017, The Guardian reported that Deloitte suffered a cyberattack that breached the confidentiality of its clients and 244,000 staff, allowing the attackers to access "usernames, passwords, IP addresses, architectural diagrams for businesses and health information". Reportedly, Deloitte had stored the affected data in Microsoft's Azure cloud hosting service, without two-step verification. The attackers were thought to possibly have had access from as early as October 2016.[14] Brian Krebs reported that the breach affected all of Deloitte's email and administrative user accounts.[146][147] A later report by The Wall Street Journal repeated Deloitte's statement that only a few clients were affected. Deloitte said that neither its services nor its clients' businesses were disrupted. Deloitte reportedly first noticed suspicious activity in April 2017. Deloitte said that no sensitive information was compromised and that its investigators were eventually able to read every email obtained by the hackers.[148]
+
+In October 2017, The Guardian reported that client accounts compromised in the breach included, but were not limited to, the US Department of Defense, the US Department of Homeland Security, the US State Department, the US Department of Energy, mortgage companies Fannie Mae and Freddie Mac, the National Institutes of Health (NIH), and the US Postal Service.[149] Fannie Mae and Freddie Mac issued statements saying they were not affected by the attack and denied that any of their data was compromised.[150]
+
+Deloitte said that it immediately contacted legal authorities and six clients. Deloitte also increased security measures on the advice of both internal and external experts.[151] As of October 2017, the New York attorney general's office was investigating the hack.[148]
+
+Carillion [ edit ]
+
+Deloitte had acted as internal auditor at construction and services giant Carillion before it went into liquidation in January 2018. The "excoriating" and "damning" (The Guardian)[152] final report of the Parliamentary inquiry into Carillion's collapse was published on 16 May 2018, and criticised Deloitte for its involvement in the company's financial reporting practices:
+
+Deloitte were responsible for advising Carillion’s board on risk management and financial controls, failings in the business that proved terminal. Deloitte were either unable to identify effectively to the board the risks associated with their business practices, unwilling to do so, or too readily ignored them.[153]
+
+The select committee chairs (Frank Field and Rachel Reeves) called for a complete overhaul of Britain's corporate governance regime, accusing the big four accounting firms of operating as a "cosy club".[152] Deloitte said it was "disappointed" with the committees' conclusions regarding its role as internal auditors, but would take on board any lessons that could be learned from Carillion's collapse.[152]
+
+US unemployment portals [ edit ]
+
+Deloitte Consulting has been heavily involved in building unemployment insurance web portals across various US states, including Ohio, Colorado and Illinois. In May 2020, following a wave of applications resulting from the COVID-19 pandemic, it was revealed that major security weaknesses existed in the web portals of these states. Personal information of unemployed applicants, including addresses and Social Security numbers, was exposed and viewable by the public. Following the revelation, proposed class actions were filed against the company.[154]
+
+The controversy follows similar short-fallings in Florida's unemployment portal. The CONNECT site, designed by Deloitte, was described as a "colossal failure" as it was created over-budget, delivered late, and did not work. Again, individuals laid off during the COVID pandemic were particularly vulnerable as they were out of jobs and unable to receive unemployment assistance. In May 2020, an investigation was ordered by Florida Governor Ron DeSantis, finding that Deloitte ran insufficient stress testing.[155][156]
+
+Tingo [ edit ]
+
+A Deloitte network firm named Brightman Almagor Zohar & Co., sometimes known as Deloitte Israel, gave an unqualified audit opinion on the accounts of Tingo Group, Inc for 2022.[157] This became controversial when a report by Hindenburg Research identified "obvious errors" in Tingo's financials, making Hindenburg "suspect Deloitte Israel missed or rushed through procedures that would have uncovered important findings",[158] and the U.S. Securities and Exchange Commission accused Tingo Group and others of a fraud of "staggering" scope.[159][160]
+
+Deloitte LLP serves as the official professional services sponsor of the United States Olympic Committee since 2009.[161] The UK member firm of Deloitte was a sponsor of the 2012 Summer Olympics[12] and the Royal Opera House.[162] The Canadian member firm was also the official professional services supplier for the 2010 Vancouver Winter Olympic Games[163] and 2010 Winter Paralympic Games.[164] In Asia, the Singapore member firm of Deloitte was a sponsor of the 2010 Summer Youth Olympics.[165] The Australian member firm of Deloitte is a Founding Partner of Invictus Games Sydney 2018, and a Principal from the firms Consulting practice is CEO of the not-for-profit entity delivering the Games.[166][167]
+
+Moreover, Deloitte sponsors many university sports teams and societies, such as Edinburgh University Hockey Club.[168] It also entered into a 3-year partnership with the Cambridge Union Society in November 2013.[169] Deloitte has also delved into motorsport sponsorship, with the team currently acting as the title sponsor for the No. 37 TOM'S Toyota Supra team as TGR Team Deloitte TOM'S in the 2023 Super GT series.[170][171]
+
+In May 2017, Deloitte entered into a partnership with McLaren Applied Technologies (MAT) to combine Deloitte's experience in delivering large consulting projects and MAT's experience of engineering, sensors, simulation and analytical analysis.[172] Prior to this, MAT had entered into a similar partnership with competitor KPMG in a ten-year deal in 2014 but it was terminated by KPMG in 2017.[173][174] The partnership was later extended to MAT sister company McLaren Racing in June 2020 where Deloitte will work with McLaren to enhance the performance of the team and its cars.[175] In May 2023, Deloitte and McLaren Racing signed a multi-year partnership extension.[176]
+
+In May 2022, Deloitte signed a three-year sponsorship deal worth more than USD300,000 with the Football Association of Singapore to be the first title sponsor of the Singapore Women’s Premier League as the Deloitte Women's Premier League.[177]
+
+See also [ edit ]
+
+References [ edit ]
+
+Further reading [ edit ]
+
+## Curated Relevant Data
+Here are the extracted sections:
+
+**Controversies**
+
+Australian tobacco industry
+COVID-19 vaccine website and patent infringement
+E-mail hack
+Carillion
+US unemployment portals
+Tingo
+
+## Financial Ratios
+
+
+## Latest News
+- **Deloitte: Consumers Shift Spending to Brands That Offer More Value for the Price** (2025-06-26)
+  https://www.hospitalitynet.org/news/4127856.html
+
+- **PCAOB fines Dutch units of Deloitte, PwC, EY for exam misconduct** (2025-06-26)
+  https://www.theaccountant-online.com/news/pcaob-fines-dutch-units/
+
+- **Jobless rate to hit 7.3% as tariffs bite: Deloitte** (2025-06-25)
+  https://biztoc.com/x/f04b685c09a42933
+
+- **Trade clarity to help Canada’s economy rebound after modest recession, Deloitte forecasts** (2025-06-25)
+  https://biztoc.com/x/a5aaa70858bb9c4a
+
+- **Ontario and Quebec economies to be hardest hit this year by trade war: Deloitte** (2025-06-25)
+  https://biztoc.com/x/da1820843ad39351

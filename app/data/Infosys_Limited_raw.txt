@@ -1,0 +1,138 @@
+# Raw Data for Infosys Limited
+
+
+## Web Search Data
+## Article from https://www.infosys.com/investors/reports-filings.html
+3-year Overview
+
+View the complete financial highlights for the last three years
+
+P&L Data | P&L Ratios | Balance Sheet Data | Balance Sheet Ratios | Per Share Data & Ratios | Employee Data | Complete Data Sheet
+
+Quarterly Results
+
+Financial Information for the Fourth Quarter and Year ended March 31, 2025
+
+Quarterly Reports
+
+Annual Reports
+
+Navigate your next
+
+Global Presence | Disclosures pursuant to SEBI (SBEB & Sweat Equity) Regulations – 2021 | Training of Board members | Exhibit to Board’s Report | AGM Notice | AGM Proceedings | AGM Voting Results | Annual secretarial compliance reports
+
+Subsidiary Financials
+
+View past annual reports
+
+View a comparison of actual revenues and EPS by quarter against the guidance issued
+
+Read
+
+Statutory Filings
+
+Read more about our filings with the United States Securities and Exchange Commission (SEC)
+
+## Article from https://www.annualreports.com/Company/infosys-limited
+Infosys Limited
+
+…
+
+prioritize the execution of change. They also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Their always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from their innovation ecosystem.
+
+Infosys is a global leader in next-generation digital services and consulting. They enable clients in 46 countries to navigate their digital transformation. With nearly four decades of experience in managing the systems and workings of global enterprises, they expertly steer their clients through their digital journey. They do it by enabling the enterprise with an AI-powered core that helps
+
+## Article from https://www.infosys.com/investors/reports-filings/annual-report/annual-reports/ar-2023-24.html
+People are a part of our digital skilling initiatives
+
+Lives empowered via our Tech for Good solutions in e-governance, education and healthcare
+
+Large deal TCV (Total contract value in US$ billion)
+
+Improved by 0.9% over the last fiscal
+
+Basic earnings per share (par value of ₹ 5 each)
+
+Note:
+
+(1) Comprise cash and cash equivalents, current and non-current investments excluding investments in equity and preference shares, and others.
+
+(2) Dividend includes special dividend of ₹8.00 per share.
+
+(3) As per the consolidated financial statements prepared under IFRS
+
+(4) Free cash flow is defined as net cash provided by operating activities less capital expenditure as per the Consolidated Statement of Cash Flows prepared under IFRS.
+
+## Curated Relevant Data
+### Extracted Relevant Sections for Infosys Limited:
+
+#### **Financial Disclosures**
+- **P&L Data**: Available in the financial highlights for the last three years.
+- **P&L Ratios**: Included in the financial highlights.
+- **Balance Sheet Data**: Available for review.
+- **Balance Sheet Ratios**: Provided in the financial disclosures.
+- **Per Share Data & Ratios**: Included in the financial highlights.
+- **Employee Data**: Available for review.
+- **Complete Data Sheet**: Provides a comprehensive overview of financial metrics.
+
+#### **Numeric Data**
+- **Large deal TCV (Total contract value)**: Improved by 0.9% over the last fiscal (value in US$ billion).
+- **Basic earnings per share**: Par value of ₹5 each.
+- **Dividend**: Includes a special dividend of ₹8.00 per share.
+
+#### **Business Activities**
+- **Digital Skilling Initiatives**: People are part of Infosys's digital skilling initiatives.
+- **Tech for Good Solutions**: Empowering lives in e-governance, education, and healthcare.
+- **AI-Powered Core**: Enables enterprises to navigate digital transformation.
+
+#### **Notes on Financial Disclosures**
+1. Cash and cash equivalents, current and non-current investments (excluding equity and preference shares).
+2. Dividend includes a special dividend of ₹8.00 per share.
+3. Consolidated financial statements prepared under IFRS.
+4. Free cash flow defined as net cash provided by operating activities less capital expenditure (as per IFRS).
+
+## Financial Data
+- Last Traded Price: ₹1603.4
+- Change (%): -0.29%
+- Previous Close: ₹1608
+- Day High: ₹1615
+- Day Low: ₹1594.1
+- 52 Week High: ₹2006.45
+- 52 Week Low: ₹1307
+- P/E Ratio: 24.537378
+- Face Value: ₹5
+- Industry: Computers - Software & Consulting
+- Sector: Information Technology
+- ISIN: INE009A01021
+- Market Cap: $6,638,852,374,528
+- Dividend Yield: 3.92%
+- Revenue: $19,277,000,704
+- Net Income: $3,158,000,128
+
+## Financial Ratios
+- Net Margin: 16.38%
+- Debt to Assets: N/A
+- P/E Ratio: 24.54
+
+## Latest News
+- **Elevation Point Wealth Partners LLC Purchases 11,183 Shares of Infosys Limited (NYSE:INFY)** (2025-06-16)
+  https://www.etfdailynews.com/2025/06/16/elevation-point-wealth-partners-llc-purchases-11183-shares-of-infosys-limited-nyseinfy/
+
+- **SG Americas Securities LLC Purchases 93,469 Shares of Infosys Limited (NYSE:INFY)** (2025-06-16)
+  https://www.etfdailynews.com/2025/06/16/sg-americas-securities-llc-purchases-93469-shares-of-infosys-limited-nyseinfy/
+
+- **Rhumbline Advisers Sells 140,477 Shares of Infosys Limited (NYSE:INFY)** (2025-06-10)
+  https://www.etfdailynews.com/2025/06/10/rhumbline-advisers-sells-140477-shares-of-infosys-limited-nyseinfy/
+
+- **Vest Financial LLC Acquires 5,877 Shares of Infosys Limited (NYSE:INFY)** (2025-06-09)
+  https://www.etfdailynews.com/2025/06/09/vest-financial-llc-acquires-5877-shares-of-infosys-limited-nyseinfy/
+
+- **Infosys Limited (NYSE:INFY) Shares Purchased by GAMMA Investing LLC** (2025-06-06)
+  https://www.etfdailynews.com/2025/06/06/infosys-limited-nyseinfy-shares-purchased-by-gamma-investing-llc/
+
+## Stock Information
+- **Current Price:** $18.52
+- **52-Week High:** $23.63
+- **52-Week Low:** $15.82
+- **1-Month Change:** +0.33%
+- **Volatility (Std Dev over 30 days):** 1.34%

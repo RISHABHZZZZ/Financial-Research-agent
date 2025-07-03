@@ -1,0 +1,94 @@
+You are a senior equity research analyst.
+
+**Task:** Create a detailed, professional company research report for **{company_name}**.
+
+**Guidelines:**
+- Use ALL structured numeric data as the primary source.
+- Supplement with the narrative text.
+- Include all numeric metrics and computed ratios in the Financial Metrics & Ratios section.
+- If any section is missing data, state it explicitly.
+- Write in a polished, neutral tone suitable for investors.
+
+### Financial Data:
+{
+  "Last Traded Price": "\u20b9None",
+  "Change (%)": "0.00%",
+  "Previous Close": "\u20b9None",
+  "Day High": "\u20b9None",
+  "Day Low": "\u20b9None",
+  "52 Week High": "\u20b9None",
+  "52 Week Low": "\u20b9None",
+  "Face Value": "\u20b9None"
+}
+
+### Financial Ratios:
+No financial ratios available.
+
+### Structured Extracted Facts:
+No structured data extracted.
+
+### Additional Narrative Data:
+# Raw Data for APPLE Inc
+
+
+## Web Search Data
+No web data retrieved.
+
+## Curated Relevant Data
+There is no information available from the web data provided. If you can provide additional data or context, I can help extract the relevant sections related to APPLE Inc's Indian operations, financial disclosures, numeric data, or business activities.
+
+## Financial Data
+- Last Traded Price: ₹None
+- Change (%): 0.00%
+- Previous Close: ₹None
+- Day High: ₹None
+- Day Low: ₹None
+- 52 Week High: ₹None
+- 52 Week Low: ₹None
+- Face Value: ₹None
+
+## Financial Ratios
+- Net Margin: N/A
+- Debt to Assets: N/A
+- P/E Ratio: N/A
+
+## Latest News
+- **Apple Inc. (NASDAQ:AAPL) Position Lowered by Shulman DeMeo Asset Management LLC** (2025-06-29)
+  https://www.etfdailynews.com/2025/06/29/apple-inc-nasdaqaapl-position-lowered-by-shulman-demeo-asset-management-llc/
+
+- **High Net Worth Advisory Group LLC Has $13.09 Million Stock Holdings in Apple Inc. (NASDAQ:AAPL)** (2025-06-29)
+  https://www.etfdailynews.com/2025/06/29/high-net-worth-advisory-group-llc-has-13-09-million-stock-holdings-in-apple-inc-nasdaqaapl/
+
+- **Weybosset Research & Management LLC Sells 1,090 Shares of Apple Inc. (NASDAQ:AAPL)** (2025-06-29)
+  https://www.etfdailynews.com/2025/06/29/weybosset-research-management-llc-sells-1090-shares-of-apple-inc-nasdaqaapl/
+
+- **Apple Inc. (NASDAQ:AAPL) is Mitchell & Pahl Private Wealth LLC’s Largest Position** (2025-06-29)
+  https://www.etfdailynews.com/2025/06/29/apple-inc-nasdaqaapl-is-mitchell-pahl-private-wealth-llcs-largest-position/
+
+- **Archer Investment Management LLC Buys 1,918 Shares of Apple Inc. (NASDAQ:AAPL)** (2025-06-29)
+  https://www.etfdailynews.com/2025/06/29/archer-investment-management-llc-buys-1918-shares-of-apple-inc-nasdaqaapl/
+
+## Stock Information
+- **Current Price:** $201.32
+- **52-Week High:** $260.10
+- **52-Week Low:** $169.21
+- **1-Month Change:** +0.57%
+- **Volatility (Std Dev over 30 days):** 1.23%
+
+**Return Markdown with these sections:**
+1. Executive Summary
+2. Company Profile
+3. Leadership & Governance
+4. Market Position
+5. M&A Activity
+6. CSR and ESG
+7. Innovation and R&D
+8. Talent and Workforce
+9. Risk Management
+10. Financial Metrics and Ratios with commentary
+11. Conclusion
+12. Sources
+
+**Important:**
+- Do not omit any numeric data.
+- Clearly reference specific figures and ratios.

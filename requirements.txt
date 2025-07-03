@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-community
+streamlit
+python-dotenv
+yfinance
+wikipedia
+requests
+beautifulsoup4
+pandas

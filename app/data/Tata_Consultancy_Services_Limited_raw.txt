@@ -1,0 +1,53 @@
+# Raw Data for Tata Consultancy Services Limited
+
+
+## Web Search Data
+## Article from https://www.annualreports.com/Company/tata-consultancy-services-ltd
+…
+
+IT service desk, data center and end user computing services, application management services, managed security services, converged network services, enterprise system management, IT service management, and transformation solutions
+
+Tata Consultancy Services Limited provides information technology (IT) services, business solutions, and outsourcing services primarily in the Americas, Europe, and India. The company offers IT services, including custom application development and management, migration and re-engineering, system integration, testing, and performance engineering; and IT infrastructure services comprising
+
+## Curated Relevant Data
+**Extracted Information: Tata Consultancy Services Limited**
+
+- **Geographical Operations**: Tata Consultancy Services Limited operates primarily in the Americas, Europe, and India.
+- **Business Activities**: The company provides a range of IT services including:
+  - IT service desk
+  - Data center services
+  - End-user computing services
+  - Application management services
+  - Managed security services
+  - Converged network services
+  - Enterprise system management
+  - IT service management
+  - Transformation solutions
+
+**Note**: The provided data does not include specific financial disclosures or numeric data related to Tata Consultancy Services Limited's Indian operations.
+
+## Financial Data
+- Last Traded Price: ₹3460
+- Change (%): 0.55%
+- Previous Close: ₹3441.1
+- Day High: ₹3464.9
+- Day Low: ₹3430
+- 52 Week High: ₹4592.25
+- 52 Week Low: ₹3056.05
+- P/E Ratio: 25.797318
+- Face Value: ₹1
+- Industry: Computers - Software & Consulting
+- Sector: Information Technology
+- ISIN: INE467B01029
+- Market Cap: $12,525,827,522,560
+- Dividend Yield: 1.74%
+- Revenue: $2,553,240,092,672
+- Net Income: $485,530,009,600
+
+## Financial Ratios
+- Net Margin: 19.02%
+- Debt to Assets: N/A
+- P/E Ratio: 25.80
+
+## Latest News
+No recent news articles found for this company.
